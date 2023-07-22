@@ -1,0 +1,7 @@
+[ INFO] - :254 2022-07-18 22:58:43 - Se registro un cliente con el ID 12
+[ INFO] - :290 2022-07-18 23:06:34 - Se elimino el producto con el ID 2
+[ INFO] - :335 2022-07-18 23:06:39 - Se limpiaron todos los campos
+[ INFO] - :270 2022-07-18 23:06:50 - Se registro una Compra con los ID Cliente 1 e ID Producto1
+[ INFO] - :270 2022-07-18 23:12:34 - Se registro una Compra con los ID Cliente 1 e ID Producto10
+[ INFO] - :320 2022-07-18 23:12:50 - Se añadio cantidad al producto con el ID 10 con la cantidad de 10
+[ INFO] - :270 2022-07-18 23:12:54 - Se registro una Compra con los ID Cliente 1 e ID Producto10
