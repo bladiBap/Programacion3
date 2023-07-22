@@ -1,0 +1,1380 @@
+[ INFO] - :59 2022-05-30 00:00:54 - Se hizo click en la posicion: 43 ------ 66
+[ INFO] - :81 2022-05-30 00:00:54 - Las posiciones para punto 1: 43 66   posicion para el punto2:  81 148
+[ INFO] - :144 2022-05-30 00:00:55 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 00:00:57 - Se hizo click en la posicion: 48 ------ 34
+[ INFO] - :81 2022-05-30 00:00:58 - Las posiciones para punto 1: 48 34   posicion para el punto2:  191 145
+[ INFO] - :144 2022-05-30 00:00:59 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:01:01 - Se hizo click en la posicion: 136 ------ 129
+[ INFO] - :81 2022-05-30 00:01:01 - Las posiciones para punto 1: 136 129   posicion para el punto2:  210 220
+[ INFO] - :144 2022-05-30 00:01:02 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:01:03 - Se hizo click en la posicion: 238 ------ 161
+[ INFO] - :81 2022-05-30 00:01:03 - Las posiciones para punto 1: 238 161   posicion para el punto2:  317 237
+[ INFO] - :144 2022-05-30 00:01:04 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:01:04 - Se hizo click en la posicion: 317 ------ 106
+[ INFO] - :81 2022-05-30 00:01:04 - Las posiciones para punto 1: 317 106   posicion para el punto2:  393 176
+[ INFO] - :144 2022-05-30 00:01:06 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 00:01:06 - Se hizo click en la posicion: 373 ------ 51
+[ INFO] - :81 2022-05-30 00:01:07 - Las posiciones para punto 1: 373 51   posicion para el punto2:  492 173
+[ INFO] - :144 2022-05-30 00:01:10 - Tamaño: 7  la posicion es: 6
+[ INFO] - :59 2022-05-30 00:01:13 - Se hizo click en la posicion: 283 ------ 233
+[ INFO] - :81 2022-05-30 00:01:13 - Las posiciones para punto 1: 283 233   posicion para el punto2:  283 233
+[ INFO] - :164 2022-05-30 00:01:14 - PosicionRestado: 5
+[ INFO] - :59 2022-05-30 00:01:15 - Se hizo click en la posicion: 289 ------ 239
+[ INFO] - :81 2022-05-30 00:01:15 - Las posiciones para punto 1: 289 239   posicion para el punto2:  289 239
+[ INFO] - :164 2022-05-30 00:01:15 - PosicionRestado: 4
+[ INFO] - :59 2022-05-30 00:01:16 - Se hizo click en la posicion: 263 ------ 221
+[ INFO] - :81 2022-05-30 00:01:16 - Las posiciones para punto 1: 263 221   posicion para el punto2:  263 221
+[ INFO] - :164 2022-05-30 00:01:16 - PosicionRestado: 3
+[ INFO] - :59 2022-05-30 00:01:17 - Se hizo click en la posicion: 292 ------ 185
+[ INFO] - :81 2022-05-30 00:01:17 - Las posiciones para punto 1: 292 185   posicion para el punto2:  292 185
+[ INFO] - :164 2022-05-30 00:01:19 - PosicionRestado: 2
+[ INFO] - :59 2022-05-30 00:01:20 - Se hizo click en la posicion: 227 ------ 97
+[ INFO] - :81 2022-05-30 00:01:20 - Las posiciones para punto 1: 227 97   posicion para el punto2:  310 234
+[ INFO] - :141 2022-05-30 00:01:21 - FOR-------Tamaño: 6  la posicion es: 2
+[ INFO] - :141 2022-05-30 00:01:21 - FOR-------Tamaño: 5  la posicion es: 2
+[ INFO] - :141 2022-05-30 00:01:21 - FOR-------Tamaño: 4  la posicion es: 2
+[ INFO] - :141 2022-05-30 00:01:21 - FOR-------Tamaño: 3  la posicion es: 2
+[ INFO] - :144 2022-05-30 00:01:21 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:01:22 - Se hizo click en la posicion: 346 ------ 116
+[ INFO] - :81 2022-05-30 00:01:23 - Las posiciones para punto 1: 346 116   posicion para el punto2:  447 212
+[ INFO] - :144 2022-05-30 00:01:25 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:01:26 - Se hizo click en la posicion: 426 ------ 45
+[ INFO] - :81 2022-05-30 00:01:26 - Las posiciones para punto 1: 426 45   posicion para el punto2:  487 103
+[ INFO] - :144 2022-05-30 00:01:28 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:01:30 - Se hizo click en la posicion: 341 ------ 216
+[ INFO] - :81 2022-05-30 00:01:30 - Las posiciones para punto 1: 341 216   posicion para el punto2:  341 216
+[ INFO] - :164 2022-05-30 00:01:31 - PosicionRestado: 3
+[ INFO] - :59 2022-05-30 00:01:32 - Se hizo click en la posicion: 304 ------ 198
+[ INFO] - :81 2022-05-30 00:01:32 - Las posiciones para punto 1: 304 198   posicion para el punto2:  304 197
+[ INFO] - :164 2022-05-30 00:01:33 - PosicionRestado: 2
+[ INFO] - :59 2022-05-30 00:04:13 - Se hizo click en la posicion: 83 ------ 68
+[ INFO] - :81 2022-05-30 00:04:14 - Las posiciones para punto 1: 83 68   posicion para el punto2:  155 161
+[ INFO] - :144 2022-05-30 00:04:15 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 00:04:15 - Se hizo click en la posicion: 219 ------ 95
+[ INFO] - :81 2022-05-30 00:04:15 - Las posiciones para punto 1: 219 95   posicion para el punto2:  284 210
+[ INFO] - :144 2022-05-30 00:04:16 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:04:17 - Se hizo click en la posicion: 316 ------ 101
+[ INFO] - :81 2022-05-30 00:04:17 - Las posiciones para punto 1: 316 101   posicion para el punto2:  384 198
+[ INFO] - :144 2022-05-30 00:04:19 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:04:20 - Se hizo click en la posicion: 429 ------ 55
+[ INFO] - :81 2022-05-30 00:04:20 - Las posiciones para punto 1: 429 55   posicion para el punto2:  499 195
+[ INFO] - :144 2022-05-30 00:04:21 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:04:49 - Se hizo click en la posicion: 397 ------ 233
+[ INFO] - :81 2022-05-30 00:04:49 - Las posiciones para punto 1: 397 233   posicion para el punto2:  397 233
+[ INFO] - :164 2022-05-30 00:04:52 - PosicionRestado: 3
+[ INFO] - :59 2022-05-30 00:05:04 - Se hizo click en la posicion: 189 ------ 278
+[ INFO] - :81 2022-05-30 00:05:04 - Las posiciones para punto 1: 189 278   posicion para el punto2:  189 278
+[ INFO] - :164 2022-05-30 00:05:05 - PosicionRestado: 2
+[ INFO] - :59 2022-05-30 00:05:05 - Se hizo click en la posicion: 177 ------ 262
+[ INFO] - :81 2022-05-30 00:05:05 - Las posiciones para punto 1: 177 262   posicion para el punto2:  177 262
+[ INFO] - :164 2022-05-30 00:05:06 - PosicionRestado: 1
+[ INFO] - :59 2022-05-30 00:05:08 - Se hizo click en la posicion: 255 ------ 263
+[ INFO] - :81 2022-05-30 00:05:08 - Las posiciones para punto 1: 255 263   posicion para el punto2:  255 263
+[ INFO] - :164 2022-05-30 00:05:09 - PosicionRestado: 0
+[ INFO] - :59 2022-05-30 00:05:11 - Se hizo click en la posicion: 219 ------ 265
+[ INFO] - :81 2022-05-30 00:05:11 - Las posiciones para punto 1: 219 265   posicion para el punto2:  219 265
+[ INFO] - :164 2022-05-30 00:05:13 - PosicionRestado: 0
+[ INFO] - :59 2022-05-30 00:05:14 - Se hizo click en la posicion: 209 ------ 259
+[ INFO] - :81 2022-05-30 00:05:14 - Las posiciones para punto 1: 209 259   posicion para el punto2:  209 259
+[ INFO] - :164 2022-05-30 00:05:20 - PosicionRestado: 0
+[ INFO] - :59 2022-05-30 00:05:22 - Se hizo click en la posicion: 215 ------ 263
+[ INFO] - :81 2022-05-30 00:05:22 - Las posiciones para punto 1: 215 263   posicion para el punto2:  215 263
+[ INFO] - :157 2022-05-30 00:05:23 - PosicionAumentado: 1
+[ INFO] - :59 2022-05-30 00:05:24 - Se hizo click en la posicion: 302 ------ 263
+[ INFO] - :81 2022-05-30 00:05:24 - Las posiciones para punto 1: 302 263   posicion para el punto2:  302 263
+[ INFO] - :157 2022-05-30 00:05:25 - PosicionAumentado: 2
+[ INFO] - :59 2022-05-30 00:05:26 - Se hizo click en la posicion: 319 ------ 238
+[ INFO] - :81 2022-05-30 00:05:26 - Las posiciones para punto 1: 319 238   posicion para el punto2:  319 238
+[ INFO] - :157 2022-05-30 00:05:26 - PosicionAumentado: 3
+[ INFO] - :59 2022-05-30 00:05:27 - Se hizo click en la posicion: 335 ------ 235
+[ INFO] - :81 2022-05-30 00:05:27 - Las posiciones para punto 1: 335 235   posicion para el punto2:  335 235
+[ INFO] - :164 2022-05-30 00:05:28 - PosicionRestado: 2
+[ INFO] - :59 2022-05-30 00:05:29 - Se hizo click en la posicion: 335 ------ 206
+[ INFO] - :81 2022-05-30 00:05:29 - Las posiciones para punto 1: 335 206   posicion para el punto2:  335 206
+[ INFO] - :164 2022-05-30 00:05:31 - PosicionRestado: 1
+[ INFO] - :59 2022-05-30 00:05:32 - Se hizo click en la posicion: 283 ------ 254
+[ INFO] - :81 2022-05-30 00:05:32 - Las posiciones para punto 1: 283 254   posicion para el punto2:  283 254
+[ INFO] - :157 2022-05-30 00:05:33 - PosicionAumentado: 2
+[ INFO] - :59 2022-05-30 00:05:33 - Se hizo click en la posicion: 340 ------ 83
+[ INFO] - :81 2022-05-30 00:05:34 - Las posiciones para punto 1: 340 83   posicion para el punto2:  407 209
+[ INFO] - :141 2022-05-30 00:05:35 - FOR-------Tamaño: 4  la posicion es: 2
+[ INFO] - :141 2022-05-30 00:05:35 - FOR-------Tamaño: 3  la posicion es: 2
+[ INFO] - :144 2022-05-30 00:05:35 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:05:54 - Se hizo click en la posicion: 266 ------ 270
+[ INFO] - :81 2022-05-30 00:05:54 - Las posiciones para punto 1: 266 270   posicion para el punto2:  266 270
+[ INFO] - :164 2022-05-30 00:05:55 - PosicionRestado: 1
+[ INFO] - :59 2022-05-30 00:05:59 - Se hizo click en la posicion: 359 ------ 265
+[ INFO] - :81 2022-05-30 00:05:59 - Las posiciones para punto 1: 359 265   posicion para el punto2:  359 265
+[ INFO] - :157 2022-05-30 00:06:00 - PosicionAumentado: 2
+[ INFO] - :59 2022-05-30 00:06:01 - Se hizo click en la posicion: 279 ------ 270
+[ INFO] - :81 2022-05-30 00:06:01 - Las posiciones para punto 1: 279 270   posicion para el punto2:  276 270
+[ INFO] - :164 2022-05-30 00:06:02 - PosicionRestado: 1
+[ INFO] - :59 2022-05-30 00:06:03 - Se hizo click en la posicion: 223 ------ 261
+[ INFO] - :81 2022-05-30 00:06:03 - Las posiciones para punto 1: 220 261   posicion para el punto2:  223 262
+[ INFO] - :164 2022-05-30 00:06:04 - PosicionRestado: 0
+[ INFO] - :59 2022-05-30 00:06:04 - Se hizo click en la posicion: 290 ------ 253
+[ INFO] - :81 2022-05-30 00:06:04 - Las posiciones para punto 1: 290 253   posicion para el punto2:  290 253
+[ INFO] - :157 2022-05-30 00:06:05 - PosicionAumentado: 1
+[ INFO] - :59 2022-05-30 00:06:05 - Se hizo click en la posicion: 422 ------ 253
+[ INFO] - :81 2022-05-30 00:06:05 - Las posiciones para punto 1: 422 253   posicion para el punto2:  422 253
+[ INFO] - :157 2022-05-30 00:06:06 - PosicionAumentado: 2
+[ INFO] - :59 2022-05-30 00:06:06 - Se hizo click en la posicion: 438 ------ 261
+[ INFO] - :81 2022-05-30 00:06:07 - Las posiciones para punto 1: 438 261   posicion para el punto2:  438 261
+[ INFO] - :157 2022-05-30 00:06:07 - PosicionAumentado: 2
+[ INFO] - :59 2022-05-30 00:06:08 - Se hizo click en la posicion: 440 ------ 261
+[ INFO] - :81 2022-05-30 00:06:08 - Las posiciones para punto 1: 440 261   posicion para el punto2:  437 261
+[ INFO] - :157 2022-05-30 00:06:08 - PosicionAumentado: 2
+[ INFO] - :59 2022-05-30 00:06:09 - Se hizo click en la posicion: 405 ------ 258
+[ INFO] - :81 2022-05-30 00:06:09 - Las posiciones para punto 1: 405 258   posicion para el punto2:  405 258
+[ INFO] - :157 2022-05-30 00:06:10 - PosicionAumentado: 2
+[ INFO] - :59 2022-05-30 00:06:20 - Se hizo click en la posicion: 239 ------ 226
+[ INFO] - :81 2022-05-30 00:06:20 - Las posiciones para punto 1: 239 226   posicion para el punto2:  239 226
+[ INFO] - :164 2022-05-30 00:06:22 - PosicionRestado: 1
+[ INFO] - :59 2022-05-30 00:06:23 - Se hizo click en la posicion: 218 ------ 261
+[ INFO] - :81 2022-05-30 00:06:23 - Las posiciones para punto 1: 218 261   posicion para el punto2:  218 261
+[ INFO] - :164 2022-05-30 00:06:24 - PosicionRestado: 0
+[ INFO] - :59 2022-05-30 00:20:37 - Se hizo click en la posicion: 68 ------ 121
+[ INFO] - :81 2022-05-30 00:20:37 - Las posiciones para punto 1: 68 121   posicion para el punto2:  106 217
+[ INFO] - :145 2022-05-30 00:20:38 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 00:20:39 - Se hizo click en la posicion: 182 ------ 143
+[ INFO] - :81 2022-05-30 00:20:39 - Las posiciones para punto 1: 182 143   posicion para el punto2:  223 249
+[ INFO] - :145 2022-05-30 00:20:40 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:20:40 - Se hizo click en la posicion: 261 ------ 124
+[ INFO] - :81 2022-05-30 00:20:40 - Las posiciones para punto 1: 261 124   posicion para el punto2:  366 237
+[ INFO] - :145 2022-05-30 00:20:45 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:20:45 - Se hizo click en la posicion: 431 ------ 61
+[ INFO] - :81 2022-05-30 00:20:46 - Las posiciones para punto 1: 431 61   posicion para el punto2:  500 149
+[ INFO] - :145 2022-05-30 00:20:47 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:20:48 - Se hizo click en la posicion: 399 ------ 216
+[ INFO] - :81 2022-05-30 00:20:48 - Las posiciones para punto 1: 399 216   posicion para el punto2:  399 216
+[ INFO] - :165 2022-05-30 00:20:49 - PosicionRestado: 3
+[ INFO] - :59 2022-05-30 00:20:49 - Se hizo click en la posicion: 404 ------ 250
+[ INFO] - :81 2022-05-30 00:20:49 - Las posiciones para punto 1: 404 250   posicion para el punto2:  404 250
+[ INFO] - :165 2022-05-30 00:20:50 - PosicionRestado: 2
+[ INFO] - :59 2022-05-30 00:20:50 - Se hizo click en la posicion: 322 ------ 242
+[ INFO] - :81 2022-05-30 00:20:51 - Las posiciones para punto 1: 322 242   posicion para el punto2:  322 242
+[ INFO] - :165 2022-05-30 00:20:51 - PosicionRestado: 1
+[ INFO] - :59 2022-05-30 00:20:52 - Se hizo click en la posicion: 378 ------ 254
+[ INFO] - :81 2022-05-30 00:20:52 - Las posiciones para punto 1: 378 254   posicion para el punto2:  378 254
+[ INFO] - :158 2022-05-30 00:20:52 - PosicionAumentado: 2
+[ INFO] - :59 2022-05-30 00:20:53 - Se hizo click en la posicion: 251 ------ 89
+[ INFO] - :81 2022-05-30 00:20:53 - Las posiciones para punto 1: 251 89   posicion para el punto2:  345 209
+[ INFO] - :140 2022-05-30 00:20:55 - -----------------------FOR-------Tamaño: 4  la posicion es: 2
+[ INFO] - :142 2022-05-30 00:20:55 - FOR-------Tamaño: 4  la posicion es: 2
+[ INFO] - :140 2022-05-30 00:20:55 - -----------------------FOR-------Tamaño: 3  la posicion es: 2
+[ INFO] - :142 2022-05-30 00:20:55 - FOR-------Tamaño: 3  la posicion es: 2
+[ INFO] - :145 2022-05-30 00:20:55 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:20:55 - Se hizo click en la posicion: 401 ------ 157
+[ INFO] - :81 2022-05-30 00:20:55 - Las posiciones para punto 1: 401 157   posicion para el punto2:  435 243
+[ INFO] - :145 2022-05-30 00:20:56 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:22:41 - Se hizo click en la posicion: 36 ------ 125
+[ INFO] - :81 2022-05-30 00:22:42 - Las posiciones para punto 1: 36 125   posicion para el punto2:  84 253
+[ INFO] - :145 2022-05-30 00:22:43 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 00:22:43 - Se hizo click en la posicion: 148 ------ 146
+[ INFO] - :81 2022-05-30 00:22:43 - Las posiciones para punto 1: 148 146   posicion para el punto2:  242 274
+[ INFO] - :145 2022-05-30 00:22:44 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:22:45 - Se hizo click en la posicion: 294 ------ 137
+[ INFO] - :81 2022-05-30 00:22:45 - Las posiciones para punto 1: 294 137   posicion para el punto2:  382 255
+[ INFO] - :145 2022-05-30 00:22:46 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:22:46 - Se hizo click en la posicion: 398 ------ 83
+[ INFO] - :81 2022-05-30 00:22:46 - Las posiciones para punto 1: 398 83   posicion para el punto2:  483 194
+[ INFO] - :145 2022-05-30 00:22:47 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:22:48 - Se hizo click en la posicion: 214 ------ 55
+[ INFO] - :81 2022-05-30 00:22:48 - Las posiciones para punto 1: 214 55   posicion para el punto2:  274 107
+[ INFO] - :145 2022-05-30 00:22:49 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 00:22:50 - Se hizo click en la posicion: 303 ------ 196
+[ INFO] - :81 2022-05-30 00:22:50 - Las posiciones para punto 1: 303 196   posicion para el punto2:  303 196
+[ INFO] - :165 2022-05-30 00:22:51 - PosicionRestado: 4
+[ INFO] - :59 2022-05-30 00:22:51 - Se hizo click en la posicion: 255 ------ 170
+[ INFO] - :81 2022-05-30 00:22:51 - Las posiciones para punto 1: 255 170   posicion para el punto2:  255 170
+[ INFO] - :165 2022-05-30 00:22:52 - PosicionRestado: 3
+[ INFO] - :59 2022-05-30 00:22:52 - Se hizo click en la posicion: 258 ------ 199
+[ INFO] - :81 2022-05-30 00:22:52 - Las posiciones para punto 1: 258 199   posicion para el punto2:  258 199
+[ INFO] - :165 2022-05-30 00:22:53 - PosicionRestado: 2
+[ INFO] - :59 2022-05-30 00:22:53 - Se hizo click en la posicion: 312 ------ 66
+[ INFO] - :81 2022-05-30 00:22:54 - Las posiciones para punto 1: 312 66   posicion para el punto2:  357 193
+[ INFO] - :140 2022-05-30 00:22:54 - -----------------------FOR-------Tamaño: 5  la posicion es: 2  i5
+[ INFO] - :142 2022-05-30 00:22:54 - FOR-------Tamaño: 5  la posicion es: 2
+[ INFO] - :140 2022-05-30 00:22:54 - -----------------------FOR-------Tamaño: 4  la posicion es: 2  i4
+[ INFO] - :142 2022-05-30 00:22:54 - FOR-------Tamaño: 4  la posicion es: 2
+[ INFO] - :140 2022-05-30 00:22:54 - -----------------------FOR-------Tamaño: 3  la posicion es: 2  i3
+[ INFO] - :142 2022-05-30 00:22:54 - FOR-------Tamaño: 3  la posicion es: 2
+[ INFO] - :145 2022-05-30 00:22:54 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:22:55 - Se hizo click en la posicion: 399 ------ 146
+[ INFO] - :81 2022-05-30 00:22:55 - Las posiciones para punto 1: 399 146   posicion para el punto2:  445 222
+[ INFO] - :145 2022-05-30 00:22:56 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:22:57 - Se hizo click en la posicion: 444 ------ 61
+[ INFO] - :81 2022-05-30 00:22:57 - Las posiciones para punto 1: 444 61   posicion para el punto2:  477 131
+[ INFO] - :145 2022-05-30 00:22:59 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:23:00 - Se hizo click en la posicion: 276 ------ 242
+[ INFO] - :81 2022-05-30 00:23:00 - Las posiciones para punto 1: 276 242   posicion para el punto2:  276 242
+[ INFO] - :165 2022-05-30 00:23:01 - PosicionRestado: 3
+[ INFO] - :59 2022-05-30 00:23:02 - Se hizo click en la posicion: 301 ------ 241
+[ INFO] - :81 2022-05-30 00:23:02 - Las posiciones para punto 1: 301 241   posicion para el punto2:  301 241
+[ INFO] - :165 2022-05-30 00:23:03 - PosicionRestado: 2
+[ INFO] - :59 2022-05-30 00:23:14 - Se hizo click en la posicion: 290 ------ 208
+[ INFO] - :81 2022-05-30 00:23:14 - Las posiciones para punto 1: 290 208   posicion para el punto2:  290 208
+[ INFO] - :165 2022-05-30 00:23:16 - PosicionRestado: 1
+[ INFO] - :59 2022-05-30 00:23:45 - Se hizo click en la posicion: 187 ------ 134
+[ INFO] - :81 2022-05-30 00:23:45 - Las posiciones para punto 1: 187 134   posicion para el punto2:  187 134
+[ INFO] - :158 2022-05-30 00:23:46 - PosicionAumentado: 2
+[ INFO] - :59 2022-05-30 00:23:55 - Se hizo click en la posicion: 326 ------ 108
+[ INFO] - :81 2022-05-30 00:23:55 - Las posiciones para punto 1: 326 108   posicion para el punto2:  326 108
+[ INFO] - :165 2022-05-30 00:23:57 - PosicionRestado: 1
+[ INFO] - :59 2022-05-30 00:23:58 - Se hizo click en la posicion: 231 ------ 235
+[ INFO] - :81 2022-05-30 00:23:58 - Las posiciones para punto 1: 231 235   posicion para el punto2:  231 235
+[ INFO] - :158 2022-05-30 00:23:59 - PosicionAumentado: 2
+[ INFO] - :59 2022-05-30 00:24:28 - Se hizo click en la posicion: 28 ------ 21
+[ INFO] - :81 2022-05-30 00:24:28 - Las posiciones para punto 1: 28 21   posicion para el punto2:  50 67
+[ INFO] - :145 2022-05-30 00:24:29 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 00:24:30 - Se hizo click en la posicion: 72 ------ 24
+[ INFO] - :81 2022-05-30 00:24:31 - Las posiciones para punto 1: 72 24   posicion para el punto2:  90 58
+[ INFO] - :145 2022-05-30 00:24:32 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:24:32 - Se hizo click en la posicion: 114 ------ 20
+[ INFO] - :81 2022-05-30 00:24:33 - Las posiciones para punto 1: 114 20   posicion para el punto2:  140 70
+[ INFO] - :145 2022-05-30 00:24:34 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:24:35 - Se hizo click en la posicion: 168 ------ 27
+[ INFO] - :81 2022-05-30 00:24:35 - Las posiciones para punto 1: 168 27   posicion para el punto2:  211 84
+[ INFO] - :145 2022-05-30 00:24:36 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:24:36 - Se hizo click en la posicion: 228 ------ 36
+[ INFO] - :81 2022-05-30 00:24:36 - Las posiciones para punto 1: 228 36   posicion para el punto2:  279 92
+[ INFO] - :145 2022-05-30 00:24:37 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 00:24:38 - Se hizo click en la posicion: 320 ------ 32
+[ INFO] - :81 2022-05-30 00:24:38 - Las posiciones para punto 1: 320 32   posicion para el punto2:  359 92
+[ INFO] - :145 2022-05-30 00:24:39 - Tamaño: 7  la posicion es: 6
+[ INFO] - :59 2022-05-30 00:24:40 - Se hizo click en la posicion: 412 ------ 61
+[ INFO] - :81 2022-05-30 00:24:40 - Las posiciones para punto 1: 412 61   posicion para el punto2:  412 63
+[ INFO] - :165 2022-05-30 00:24:57 - PosicionRestado: 5
+[ INFO] - :59 2022-05-30 00:25:00 - Se hizo click en la posicion: 230 ------ 257
+[ INFO] - :81 2022-05-30 00:25:00 - Las posiciones para punto 1: 230 257   posicion para el punto2:  230 257
+[ INFO] - :165 2022-05-30 00:25:01 - PosicionRestado: 4
+[ INFO] - :59 2022-05-30 00:25:01 - Se hizo click en la posicion: 348 ------ 211
+[ INFO] - :81 2022-05-30 00:25:01 - Las posiciones para punto 1: 348 211   posicion para el punto2:  348 211
+[ INFO] - :158 2022-05-30 00:25:02 - PosicionAumentado: 5
+[ INFO] - :59 2022-05-30 00:25:02 - Se hizo click en la posicion: 347 ------ 248
+[ INFO] - :81 2022-05-30 00:25:03 - Las posiciones para punto 1: 347 248   posicion para el punto2:  347 248
+[ INFO] - :165 2022-05-30 00:25:03 - PosicionRestado: 4
+[ INFO] - :59 2022-05-30 00:25:04 - Se hizo click en la posicion: 351 ------ 224
+[ INFO] - :81 2022-05-30 00:25:04 - Las posiciones para punto 1: 351 224   posicion para el punto2:  352 224
+[ INFO] - :158 2022-05-30 00:25:04 - PosicionAumentado: 5
+[ INFO] - :59 2022-05-30 00:25:05 - Se hizo click en la posicion: 418 ------ 232
+[ INFO] - :81 2022-05-30 00:25:05 - Las posiciones para punto 1: 418 232   posicion para el punto2:  418 232
+[ INFO] - :158 2022-05-30 00:25:05 - PosicionAumentado: 6
+[ INFO] - :59 2022-05-30 00:25:06 - Se hizo click en la posicion: 386 ------ 237
+[ INFO] - :81 2022-05-30 00:25:06 - Las posiciones para punto 1: 386 237   posicion para el punto2:  386 237
+[ INFO] - :158 2022-05-30 00:25:07 - PosicionAumentado: 6
+[ INFO] - :59 2022-05-30 00:25:07 - Se hizo click en la posicion: 393 ------ 220
+[ INFO] - :81 2022-05-30 00:25:07 - Las posiciones para punto 1: 393 220   posicion para el punto2:  393 220
+[ INFO] - :158 2022-05-30 00:25:08 - PosicionAumentado: 6
+[ INFO] - :59 2022-05-30 00:25:09 - Se hizo click en la posicion: 406 ------ 228
+[ INFO] - :81 2022-05-30 00:25:09 - Las posiciones para punto 1: 406 228   posicion para el punto2:  406 228
+[ INFO] - :165 2022-05-30 00:25:10 - PosicionRestado: 5
+[ INFO] - :59 2022-05-30 00:25:11 - Se hizo click en la posicion: 363 ------ 252
+[ INFO] - :81 2022-05-30 00:25:11 - Las posiciones para punto 1: 363 252   posicion para el punto2:  363 252
+[ INFO] - :158 2022-05-30 00:25:11 - PosicionAumentado: 6
+[ INFO] - :59 2022-05-30 00:25:14 - Se hizo click en la posicion: 324 ------ 201
+[ INFO] - :81 2022-05-30 00:25:14 - Las posiciones para punto 1: 324 201   posicion para el punto2:  324 201
+[ INFO] - :165 2022-05-30 00:25:17 - PosicionRestado: 5
+[ INFO] - :59 2022-05-30 00:25:18 - Se hizo click en la posicion: 239 ------ 256
+[ INFO] - :81 2022-05-30 00:25:18 - Las posiciones para punto 1: 239 256   posicion para el punto2:  239 256
+[ INFO] - :165 2022-05-30 00:25:18 - PosicionRestado: 4
+[ INFO] - :59 2022-05-30 00:25:19 - Se hizo click en la posicion: 251 ------ 246
+[ INFO] - :81 2022-05-30 00:25:19 - Las posiciones para punto 1: 251 246   posicion para el punto2:  251 246
+[ INFO] - :165 2022-05-30 00:25:20 - PosicionRestado: 3
+[ INFO] - :59 2022-05-30 00:25:26 - Se hizo click en la posicion: 204 ------ 50
+[ INFO] - :81 2022-05-30 00:25:26 - Las posiciones para punto 1: 204 50   posicion para el punto2:  204 50
+[ INFO] - :158 2022-05-30 00:25:29 - PosicionAumentado: 4
+[ INFO] - :59 2022-05-30 00:25:29 - Se hizo click en la posicion: 269 ------ 198
+[ INFO] - :81 2022-05-30 00:25:29 - Las posiciones para punto 1: 269 198   posicion para el punto2:  269 198
+[ INFO] - :165 2022-05-30 00:25:30 - PosicionRestado: 3
+[ INFO] - :59 2022-05-30 00:25:30 - Se hizo click en la posicion: 175 ------ 34
+[ INFO] - :81 2022-05-30 00:25:31 - Las posiciones para punto 1: 175 34   posicion para el punto2:  241 135
+[ INFO] - :140 2022-05-30 00:25:32 - -----------------------FOR-------Tamaño: 6  la posicion es: 3  i6
+[ INFO] - :142 2022-05-30 00:25:32 - FOR-------Tamaño: 6  la posicion es: 3
+[ INFO] - :140 2022-05-30 00:25:32 - -----------------------FOR-------Tamaño: 5  la posicion es: 3  i5
+[ INFO] - :142 2022-05-30 00:25:32 - FOR-------Tamaño: 5  la posicion es: 3
+[ INFO] - :140 2022-05-30 00:25:32 - -----------------------FOR-------Tamaño: 4  la posicion es: 3  i4
+[ INFO] - :142 2022-05-30 00:25:32 - FOR-------Tamaño: 4  la posicion es: 3
+[ INFO] - :145 2022-05-30 00:25:32 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:25:33 - Se hizo click en la posicion: 271 ------ 63
+[ INFO] - :81 2022-05-30 00:25:33 - Las posiciones para punto 1: 271 63   posicion para el punto2:  293 122
+[ INFO] - :145 2022-05-30 00:25:37 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:25:40 - Se hizo click en la posicion: 326 ------ 48
+[ INFO] - :81 2022-05-30 00:25:40 - Las posiciones para punto 1: 326 48   posicion para el punto2:  356 120
+[ INFO] - :145 2022-05-30 00:25:42 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 00:26:02 - Se hizo click en la posicion: 318 ------ 207
+[ INFO] - :81 2022-05-30 00:26:02 - Las posiciones para punto 1: 318 207   posicion para el punto2:  318 207
+[ INFO] - :165 2022-05-30 00:26:03 - PosicionRestado: 4
+[ INFO] - :59 2022-05-30 00:26:08 - Se hizo click en la posicion: 321 ------ 229
+[ INFO] - :81 2022-05-30 00:26:08 - Las posiciones para punto 1: 321 229   posicion para el punto2:  321 229
+[ INFO] - :165 2022-05-30 00:26:10 - PosicionRestado: 3
+[ INFO] - :59 2022-05-30 00:26:13 - Se hizo click en la posicion: 224 ------ 256
+[ INFO] - :81 2022-05-30 00:26:13 - Las posiciones para punto 1: 224 256   posicion para el punto2:  224 256
+[ INFO] - :165 2022-05-30 00:26:15 - PosicionRestado: 2
+[ INFO] - :59 2022-05-30 00:26:17 - Se hizo click en la posicion: 225 ------ 257
+[ INFO] - :81 2022-05-30 00:26:17 - Las posiciones para punto 1: 225 257   posicion para el punto2:  225 257
+[ INFO] - :165 2022-05-30 00:26:17 - PosicionRestado: 1
+[ INFO] - :59 2022-05-30 00:26:18 - Se hizo click en la posicion: 225 ------ 258
+[ INFO] - :81 2022-05-30 00:26:18 - Las posiciones para punto 1: 225 258   posicion para el punto2:  225 258
+[ INFO] - :165 2022-05-30 00:26:19 - PosicionRestado: 0
+[ INFO] - :59 2022-05-30 00:26:19 - Se hizo click en la posicion: 332 ------ 251
+[ INFO] - :81 2022-05-30 00:26:20 - Las posiciones para punto 1: 332 251   posicion para el punto2:  332 251
+[ INFO] - :158 2022-05-30 00:26:20 - PosicionAumentado: 1
+[ INFO] - :59 2022-05-30 00:26:21 - Se hizo click en la posicion: 401 ------ 259
+[ INFO] - :81 2022-05-30 00:26:21 - Las posiciones para punto 1: 401 259   posicion para el punto2:  401 259
+[ INFO] - :158 2022-05-30 00:26:21 - PosicionAumentado: 2
+[ INFO] - :59 2022-05-30 00:26:22 - Se hizo click en la posicion: 401 ------ 259
+[ INFO] - :81 2022-05-30 00:26:22 - Las posiciones para punto 1: 401 259   posicion para el punto2:  401 259
+[ INFO] - :158 2022-05-30 00:26:23 - PosicionAumentado: 3
+[ INFO] - :59 2022-05-30 00:26:49 - Se hizo click en la posicion: 352 ------ 172
+[ INFO] - :81 2022-05-30 00:26:49 - Las posiciones para punto 1: 352 172   posicion para el punto2:  352 172
+[ INFO] - :165 2022-05-30 00:26:50 - PosicionRestado: 2
+[ INFO] - :59 2022-05-30 00:26:50 - Se hizo click en la posicion: 323 ------ 213
+[ INFO] - :81 2022-05-30 00:26:50 - Las posiciones para punto 1: 323 213   posicion para el punto2:  323 213
+[ INFO] - :158 2022-05-30 00:26:51 - PosicionAumentado: 3
+[ INFO] - :59 2022-05-30 00:26:51 - Se hizo click en la posicion: 382 ------ 195
+[ INFO] - :81 2022-05-30 00:26:51 - Las posiciones para punto 1: 382 195   posicion para el punto2:  382 195
+[ INFO] - :158 2022-05-30 00:26:52 - PosicionAumentado: 4
+[ INFO] - :59 2022-05-30 00:26:53 - Se hizo click en la posicion: 401 ------ 217
+[ INFO] - :81 2022-05-30 00:26:53 - Las posiciones para punto 1: 401 217   posicion para el punto2:  401 217
+[ INFO] - :158 2022-05-30 00:26:53 - PosicionAumentado: 5
+[ INFO] - :59 2022-05-30 00:26:54 - Se hizo click en la posicion: 385 ------ 223
+[ INFO] - :81 2022-05-30 00:26:54 - Las posiciones para punto 1: 385 223   posicion para el punto2:  385 223
+[ INFO] - :158 2022-05-30 00:26:54 - PosicionAumentado: 5
+[ INFO] - :59 2022-05-30 00:26:55 - Se hizo click en la posicion: 395 ------ 216
+[ INFO] - :81 2022-05-30 00:26:55 - Las posiciones para punto 1: 395 216   posicion para el punto2:  397 216
+[ INFO] - :158 2022-05-30 00:26:56 - PosicionAumentado: 5
+[ INFO] - :59 2022-05-30 00:28:06 - Se hizo click en la posicion: 270 ------ 164
+[ INFO] - :81 2022-05-30 00:28:06 - Las posiciones para punto 1: 270 164   posicion para el punto2:  270 164
+[ INFO] - :158 2022-05-30 00:28:08 - PosicionAumentado: 5
+[ INFO] - :59 2022-05-30 00:29:17 - Se hizo click en la posicion: 55 ------ 64
+[ INFO] - :81 2022-05-30 00:29:17 - Las posiciones para punto 1: 55 64   posicion para el punto2:  120 153
+[ INFO] - :145 2022-05-30 00:29:18 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 00:29:18 - Se hizo click en la posicion: 161 ------ 56
+[ INFO] - :81 2022-05-30 00:29:19 - Las posiciones para punto 1: 161 56   posicion para el punto2:  204 163
+[ INFO] - :145 2022-05-30 00:29:20 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:29:20 - Se hizo click en la posicion: 229 ------ 67
+[ INFO] - :81 2022-05-30 00:29:21 - Las posiciones para punto 1: 229 67   posicion para el punto2:  279 183
+[ INFO] - :145 2022-05-30 00:29:22 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:29:23 - Se hizo click en la posicion: 325 ------ 68
+[ INFO] - :81 2022-05-30 00:29:23 - Las posiciones para punto 1: 325 68   posicion para el punto2:  384 193
+[ INFO] - :145 2022-05-30 00:29:24 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:29:25 - Se hizo click en la posicion: 410 ------ 50
+[ INFO] - :81 2022-05-30 00:29:26 - Las posiciones para punto 1: 410 50   posicion para el punto2:  483 131
+[ INFO] - :145 2022-05-30 00:29:26 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 00:29:27 - Se hizo click en la posicion: 282 ------ 254
+[ INFO] - :81 2022-05-30 00:29:27 - Las posiciones para punto 1: 282 254   posicion para el punto2:  282 254
+[ INFO] - :165 2022-05-30 00:29:28 - PosicionRestado: 4 Tamaño lista 46
+[ INFO] - :59 2022-05-30 00:30:23 - Se hizo click en la posicion: 38 ------ 53
+[ INFO] - :81 2022-05-30 00:30:23 - Las posiciones para punto 1: 38 53   posicion para el punto2:  74 141
+[ INFO] - :145 2022-05-30 00:30:24 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 00:30:25 - Se hizo click en la posicion: 77 ------ 36
+[ INFO] - :81 2022-05-30 00:30:25 - Las posiciones para punto 1: 77 36   posicion para el punto2:  152 139
+[ INFO] - :145 2022-05-30 00:30:26 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:30:26 - Se hizo click en la posicion: 189 ------ 41
+[ INFO] - :81 2022-05-30 00:30:27 - Las posiciones para punto 1: 189 41   posicion para el punto2:  228 123
+[ INFO] - :145 2022-05-30 00:30:28 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:30:29 - Se hizo click en la posicion: 263 ------ 74
+[ INFO] - :81 2022-05-30 00:30:29 - Las posiciones para punto 1: 263 74   posicion para el punto2:  312 166
+[ INFO] - :145 2022-05-30 00:30:29 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:30:30 - Se hizo click en la posicion: 371 ------ 88
+[ INFO] - :81 2022-05-30 00:30:30 - Las posiciones para punto 1: 371 88   posicion para el punto2:  418 170
+[ INFO] - :145 2022-05-30 00:30:31 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 00:30:31 - Se hizo click en la posicion: 454 ------ 194
+[ INFO] - :81 2022-05-30 00:30:31 - Las posiciones para punto 1: 454 194   posicion para el punto2:  454 194
+[ INFO] - :165 2022-05-30 00:30:32 - PosicionRestado: 4 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:30:33 - Se hizo click en la posicion: 336 ------ 234
+[ INFO] - :81 2022-05-30 00:30:33 - Las posiciones para punto 1: 335 233   posicion para el punto2:  336 234
+[ INFO] - :165 2022-05-30 00:30:33 - PosicionRestado: 3 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:30:35 - Se hizo click en la posicion: 249 ------ 250
+[ INFO] - :81 2022-05-30 00:30:35 - Las posiciones para punto 1: 249 250   posicion para el punto2:  249 250
+[ INFO] - :165 2022-05-30 00:30:35 - PosicionRestado: 2 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:30:37 - Se hizo click en la posicion: 345 ------ 223
+[ INFO] - :81 2022-05-30 00:30:37 - Las posiciones para punto 1: 345 223   posicion para el punto2:  345 223
+[ INFO] - :158 2022-05-30 00:30:38 - PosicionAumentado: 3 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:30:41 - Se hizo click en la posicion: 310 ------ 144
+[ INFO] - :81 2022-05-30 00:30:42 - Las posiciones para punto 1: 310 144   posicion para el punto2:  310 144
+[ INFO] - :165 2022-05-30 00:30:43 - PosicionRestado: 2 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:30:44 - Se hizo click en la posicion: 353 ------ 206
+[ INFO] - :81 2022-05-30 00:30:44 - Las posiciones para punto 1: 351 206   posicion para el punto2:  353 207
+[ INFO] - :158 2022-05-30 00:30:45 - PosicionAumentado: 3 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:30:47 - Se hizo click en la posicion: 262 ------ 57
+[ INFO] - :81 2022-05-30 00:30:48 - Las posiciones para punto 1: 262 57   posicion para el punto2:  326 164
+[ INFO] - :140 2022-05-30 00:30:55 - -----------------------FOR-------Tamaño: 5  la posicion es: 3  i5
+[ INFO] - :142 2022-05-30 00:30:55 - FOR-------Tamaño: 5  la posicion es: 3
+[ INFO] - :140 2022-05-30 00:30:55 - -----------------------FOR-------Tamaño: 4  la posicion es: 3  i4
+[ INFO] - :142 2022-05-30 00:30:55 - FOR-------Tamaño: 4  la posicion es: 3
+[ INFO] - :145 2022-05-30 00:30:55 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:31:44 - Se hizo click en la posicion: 362 ------ 86
+[ INFO] - :81 2022-05-30 00:31:44 - Las posiciones para punto 1: 362 86   posicion para el punto2:  409 158
+[ INFO] - :145 2022-05-30 00:31:47 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:32:35 - Se hizo click en la posicion: 365 ------ 161
+[ INFO] - :81 2022-05-30 00:32:35 - Las posiciones para punto 1: 365 161   posicion para el punto2:  365 161
+[ INFO] - :165 2022-05-30 00:32:37 - PosicionRestado: 3 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:33:59 - Se hizo click en la posicion: 225 ------ 203
+[ INFO] - :81 2022-05-30 00:33:59 - Las posiciones para punto 1: 225 203   posicion para el punto2:  225 203
+[ INFO] - :165 2022-05-30 00:34:01 - PosicionRestado: 2 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:34:06 - Se hizo click en la posicion: 253 ------ 103
+[ INFO] - :81 2022-05-30 00:34:06 - Las posiciones para punto 1: 253 103   posicion para el punto2:  253 103
+[ INFO] - :158 2022-05-30 00:34:07 - PosicionAumentado: 3 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:34:36 - Se hizo click en la posicion: 449 ------ 225
+[ INFO] - :81 2022-05-30 00:34:36 - Las posiciones para punto 1: 449 225   posicion para el punto2:  450 225
+[ INFO] - :158 2022-05-30 00:34:38 - PosicionAumentado: 4 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:34:39 - Se hizo click en la posicion: 289 ------ 199
+[ INFO] - :81 2022-05-30 00:34:39 - Las posiciones para punto 1: 289 199   posicion para el punto2:  289 198
+[ INFO] - :158 2022-05-30 00:34:40 - PosicionAumentado: 4 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:34:41 - Se hizo click en la posicion: 268 ------ 229
+[ INFO] - :81 2022-05-30 00:34:41 - Las posiciones para punto 1: 268 229   posicion para el punto2:  268 229
+[ INFO] - :165 2022-05-30 00:35:39 - PosicionRestado: 3 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:35:42 - Se hizo click en la posicion: 116 ------ 83
+[ INFO] - :81 2022-05-30 00:35:42 - Las posiciones para punto 1: 116 83   posicion para el punto2:  116 83
+[ INFO] - :165 2022-05-30 00:35:43 - PosicionRestado: 2 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:35:46 - Se hizo click en la posicion: 101 ------ 247
+[ INFO] - :81 2022-05-30 00:35:47 - Las posiciones para punto 1: 101 247   posicion para el punto2:  101 247
+[ INFO] - :165 2022-05-30 00:35:48 - PosicionRestado: 1 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:35:49 - Se hizo click en la posicion: 137 ------ 212
+[ INFO] - :81 2022-05-30 00:35:49 - Las posiciones para punto 1: 137 212   posicion para el punto2:  137 212
+[ INFO] - :165 2022-05-30 00:35:50 - PosicionRestado: 0 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:35:51 - Se hizo click en la posicion: 93 ------ 212
+[ INFO] - :81 2022-05-30 00:35:51 - Las posiciones para punto 1: 93 212   posicion para el punto2:  93 212
+[ INFO] - :158 2022-05-30 00:35:52 - PosicionAumentado: 1 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:35:53 - Se hizo click en la posicion: 119 ------ 248
+[ INFO] - :81 2022-05-30 00:35:53 - Las posiciones para punto 1: 119 248   posicion para el punto2:  119 248
+[ INFO] - :158 2022-05-30 00:35:54 - PosicionAumentado: 2 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:35:55 - Se hizo click en la posicion: 167 ------ 240
+[ INFO] - :81 2022-05-30 00:35:55 - Las posiciones para punto 1: 167 240   posicion para el punto2:  167 240
+[ INFO] - :158 2022-05-30 00:35:58 - PosicionAumentado: 3 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:36:03 - Se hizo click en la posicion: 214 ------ 202
+[ INFO] - :81 2022-05-30 00:36:03 - Las posiciones para punto 1: 214 202   posicion para el punto2:  214 202
+[ INFO] - :158 2022-05-30 00:36:05 - PosicionAumentado: 4 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:36:08 - Se hizo click en la posicion: 73 ------ 273
+[ INFO] - :81 2022-05-30 00:36:08 - Las posiciones para punto 1: 73 273   posicion para el punto2:  73 273
+[ INFO] - :158 2022-05-30 00:36:10 - PosicionAumentado: 4 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:36:13 - Se hizo click en la posicion: 176 ------ 232
+[ INFO] - :81 2022-05-30 00:36:13 - Las posiciones para punto 1: 176 232   posicion para el punto2:  176 232
+[ INFO] - :165 2022-05-30 00:36:15 - PosicionRestado: 3 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:36:15 - Se hizo click en la posicion: 207 ------ 234
+[ INFO] - :81 2022-05-30 00:36:16 - Las posiciones para punto 1: 207 234   posicion para el punto2:  207 234
+[ INFO] - :165 2022-05-30 00:36:17 - PosicionRestado: 2 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:36:18 - Se hizo click en la posicion: 109 ------ 270
+[ INFO] - :81 2022-05-30 00:36:18 - Las posiciones para punto 1: 109 270   posicion para el punto2:  109 270
+[ INFO] - :158 2022-05-30 00:36:19 - PosicionAumentado: 3 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:37:04 - Se hizo click en la posicion: 17 ------ 27
+[ INFO] - :80 2022-05-30 00:37:05 - Las posiciones para punto 1: 17 27   posicion para el punto2:  79 177
+[ INFO] - :145 2022-05-30 00:37:06 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 00:37:07 - Se hizo click en la posicion: 111 ------ 34
+[ INFO] - :80 2022-05-30 00:37:07 - Las posiciones para punto 1: 111 34   posicion para el punto2:  166 167
+[ INFO] - :145 2022-05-30 00:37:08 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:37:08 - Se hizo click en la posicion: 193 ------ 26
+[ INFO] - :80 2022-05-30 00:37:09 - Las posiciones para punto 1: 193 26   posicion para el punto2:  270 183
+[ INFO] - :145 2022-05-30 00:37:10 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:37:10 - Se hizo click en la posicion: 322 ------ 29
+[ INFO] - :80 2022-05-30 00:37:11 - Las posiciones para punto 1: 322 29   posicion para el punto2:  413 167
+[ INFO] - :145 2022-05-30 00:37:12 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:37:13 - Se hizo click en la posicion: 445 ------ 36
+[ INFO] - :80 2022-05-30 00:37:13 - Las posiciones para punto 1: 445 36   posicion para el punto2:  514 182
+[ INFO] - :145 2022-05-30 00:37:14 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 00:37:14 - Se hizo click en la posicion: 431 ------ 207
+[ INFO] - :80 2022-05-30 00:37:14 - Las posiciones para punto 1: 431 207   posicion para el punto2:  431 207
+[ INFO] - :165 2022-05-30 00:37:18 - PosicionRestado: 4 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:37:23 - Se hizo click en la posicion: 234 ------ 263
+[ INFO] - :80 2022-05-30 00:37:23 - Las posiciones para punto 1: 234 263   posicion para el punto2:  234 263
+[ INFO] - :165 2022-05-30 00:37:24 - PosicionRestado: 3 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:37:26 - Se hizo click en la posicion: 205 ------ 284
+[ INFO] - :80 2022-05-30 00:37:26 - Las posiciones para punto 1: 205 284   posicion para el punto2:  205 284
+[ INFO] - :165 2022-05-30 00:37:28 - PosicionRestado: 2 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:37:29 - Se hizo click en la posicion: 231 ------ 283
+[ INFO] - :80 2022-05-30 00:37:29 - Las posiciones para punto 1: 231 283   posicion para el punto2:  231 283
+[ INFO] - :165 2022-05-30 00:37:30 - PosicionRestado: 1 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:37:31 - Se hizo click en la posicion: 232 ------ 326
+[ INFO] - :80 2022-05-30 00:37:31 - Las posiciones para punto 1: 232 326   posicion para el punto2:  234 327
+[ INFO] - :165 2022-05-30 00:37:32 - PosicionRestado: 0 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:37:33 - Se hizo click en la posicion: 290 ------ 279
+[ INFO] - :80 2022-05-30 00:37:33 - Las posiciones para punto 1: 290 279   posicion para el punto2:  290 279
+[ INFO] - :158 2022-05-30 00:37:34 - PosicionAumentado: 1 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:37:34 - Se hizo click en la posicion: 322 ------ 273
+[ INFO] - :80 2022-05-30 00:37:34 - Las posiciones para punto 1: 322 273   posicion para el punto2:  322 273
+[ INFO] - :158 2022-05-30 00:37:35 - PosicionAumentado: 2 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:37:35 - Se hizo click en la posicion: 327 ------ 275
+[ INFO] - :80 2022-05-30 00:37:35 - Las posiciones para punto 1: 327 275   posicion para el punto2:  327 275
+[ INFO] - :158 2022-05-30 00:37:36 - PosicionAumentado: 3 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:37:37 - Se hizo click en la posicion: 292 ------ 51
+[ INFO] - :80 2022-05-30 00:37:38 - Las posiciones para punto 1: 292 51   posicion para el punto2:  365 227
+[ INFO] - :140 2022-05-30 00:37:39 - -----------------------FOR-------Tamaño: 5  la posicion es: 3  i5
+[ INFO] - :142 2022-05-30 00:37:39 - FOR-------Tamaño: 5  la posicion es: 3
+[ INFO] - :140 2022-05-30 00:37:39 - -----------------------FOR-------Tamaño: 4  la posicion es: 3  i4
+[ INFO] - :142 2022-05-30 00:37:39 - FOR-------Tamaño: 4  la posicion es: 3
+[ INFO] - :145 2022-05-30 00:37:39 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:37:58 - Se hizo click en la posicion: 395 ------ 64
+[ INFO] - :80 2022-05-30 00:37:59 - Las posiciones para punto 1: 395 64   posicion para el punto2:  456 165
+[ INFO] - :145 2022-05-30 00:38:00 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:39:51 - Se hizo click en la posicion: 254 ------ 197
+[ INFO] - :80 2022-05-30 00:39:51 - Las posiciones para punto 1: 254 197   posicion para el punto2:  254 197
+[ INFO] - :165 2022-05-30 00:39:52 - PosicionRestado: 3 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:39:53 - Se hizo click en la posicion: 211 ------ 251
+[ INFO] - :80 2022-05-30 00:39:53 - Las posiciones para punto 1: 211 251   posicion para el punto2:  211 251
+[ INFO] - :165 2022-05-30 00:39:54 - PosicionRestado: 2 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:39:58 - Se hizo click en la posicion: 230 ------ 151
+[ INFO] - :80 2022-05-30 00:39:58 - Las posiciones para punto 1: 230 151   posicion para el punto2:  230 151
+[ INFO] - :158 2022-05-30 00:40:00 - PosicionAumentado: 3 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:40:01 - Se hizo click en la posicion: 83 ------ 222
+[ INFO] - :80 2022-05-30 00:40:01 - Las posiciones para punto 1: 83 222   posicion para el punto2:  83 222
+[ INFO] - :158 2022-05-30 00:40:02 - PosicionAumentado: 4 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:40:02 - Se hizo click en la posicion: 232 ------ 193
+[ INFO] - :80 2022-05-30 00:40:02 - Las posiciones para punto 1: 232 193   posicion para el punto2:  232 193
+[ INFO] - :158 2022-05-30 00:40:03 - PosicionAumentado: 4 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:40:07 - Se hizo click en la posicion: 319 ------ 152
+[ INFO] - :80 2022-05-30 00:40:07 - Las posiciones para punto 1: 319 152   posicion para el punto2:  319 152
+[ INFO] - :165 2022-05-30 00:40:09 - PosicionRestado: 3 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:40:09 - Se hizo click en la posicion: 137 ------ 247
+[ INFO] - :80 2022-05-30 00:40:09 - Las posiciones para punto 1: 137 247   posicion para el punto2:  137 247
+[ INFO] - :165 2022-05-30 00:40:11 - PosicionRestado: 2 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:40:13 - Se hizo click en la posicion: 199 ------ 195
+[ INFO] - :80 2022-05-30 00:40:13 - Las posiciones para punto 1: 199 195   posicion para el punto2:  199 195
+[ INFO] - :165 2022-05-30 00:40:14 - PosicionRestado: 1 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:40:14 - Se hizo click en la posicion: 321 ------ 158
+[ INFO] - :80 2022-05-30 00:40:15 - Las posiciones para punto 1: 321 158   posicion para el punto2:  321 158
+[ INFO] - :165 2022-05-30 00:40:16 - PosicionRestado: 0 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:40:17 - Se hizo click en la posicion: 156 ------ 214
+[ INFO] - :80 2022-05-30 00:40:17 - Las posiciones para punto 1: 156 214   posicion para el punto2:  156 214
+[ INFO] - :158 2022-05-30 00:40:18 - PosicionAumentado: 1 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:40:19 - Se hizo click en la posicion: 239 ------ 148
+[ INFO] - :80 2022-05-30 00:40:19 - Las posiciones para punto 1: 239 148   posicion para el punto2:  239 148
+[ INFO] - :158 2022-05-30 00:40:20 - PosicionAumentado: 2 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:40:20 - Se hizo click en la posicion: 185 ------ 208
+[ INFO] - :80 2022-05-30 00:40:21 - Las posiciones para punto 1: 185 208   posicion para el punto2:  185 208
+[ INFO] - :158 2022-05-30 00:40:21 - PosicionAumentado: 3 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:40:22 - Se hizo click en la posicion: 165 ------ 261
+[ INFO] - :80 2022-05-30 00:40:22 - Las posiciones para punto 1: 165 261   posicion para el punto2:  165 261
+[ INFO] - :158 2022-05-30 00:40:23 - PosicionAumentado: 4 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:40:25 - Se hizo click en la posicion: 307 ------ 216
+[ INFO] - :80 2022-05-30 00:40:25 - Las posiciones para punto 1: 304 216   posicion para el punto2:  307 217
+[ INFO] - :158 2022-05-30 00:40:26 - PosicionAumentado: 4 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:40:38 - Se hizo click en la posicion: 453 ------ 82
+[ INFO] - :80 2022-05-30 00:40:38 - Las posiciones para punto 1: 453 82   posicion para el punto2:  453 82
+[ INFO] - :165 2022-05-30 00:40:40 - PosicionRestado: 3 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:41:50 - Se hizo click en la posicion: 215 ------ 169
+[ INFO] - :80 2022-05-30 00:41:50 - Las posiciones para punto 1: 215 169   posicion para el punto2:  215 169
+[ INFO] - :158 2022-05-30 00:41:53 - PosicionAumentado: 4 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:41:54 - Se hizo click en la posicion: 149 ------ 202
+[ INFO] - :80 2022-05-30 00:41:55 - Las posiciones para punto 1: 149 202   posicion para el punto2:  149 202
+[ INFO] - :158 2022-05-30 00:41:56 - PosicionAumentado: 4 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:42:40 - Se hizo click en la posicion: 99 ------ 45
+[ INFO] - :80 2022-05-30 00:42:41 - Las posiciones para punto 1: 99 45   posicion para el punto2:  153 156
+[ INFO] - :145 2022-05-30 00:42:42 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 00:42:42 - Se hizo click en la posicion: 213 ------ 59
+[ INFO] - :80 2022-05-30 00:42:42 - Las posiciones para punto 1: 213 59   posicion para el punto2:  269 156
+[ INFO] - :145 2022-05-30 00:42:43 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:42:43 - Se hizo click en la posicion: 332 ------ 32
+[ INFO] - :80 2022-05-30 00:42:44 - Las posiciones para punto 1: 332 32   posicion para el punto2:  382 150
+[ INFO] - :145 2022-05-30 00:42:45 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:42:45 - Se hizo click en la posicion: 88 ------ 197
+[ INFO] - :80 2022-05-30 00:42:46 - Las posiciones para punto 1: 88 197   posicion para el punto2:  173 265
+[ INFO] - :145 2022-05-30 00:42:47 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:42:48 - Se hizo click en la posicion: 244 ------ 247
+[ INFO] - :80 2022-05-30 00:42:48 - Las posiciones para punto 1: 243 247   posicion para el punto2:  244 248
+[ INFO] - :165 2022-05-30 00:42:49 - PosicionRestado: 3 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:42:50 - Se hizo click en la posicion: 296 ------ 256
+[ INFO] - :80 2022-05-30 00:42:50 - Las posiciones para punto 1: 296 256   posicion para el punto2:  296 256
+[ INFO] - :165 2022-05-30 00:42:51 - PosicionRestado: 2 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:42:51 - Se hizo click en la posicion: 308 ------ 242
+[ INFO] - :80 2022-05-30 00:42:51 - Las posiciones para punto 1: 308 242   posicion para el punto2:  308 242
+[ INFO] - :165 2022-05-30 00:42:52 - PosicionRestado: 1 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:42:53 - Se hizo click en la posicion: 308 ------ 246
+[ INFO] - :80 2022-05-30 00:42:53 - Las posiciones para punto 1: 308 246   posicion para el punto2:  308 246
+[ INFO] - :165 2022-05-30 00:42:53 - PosicionRestado: 0 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:42:54 - Se hizo click en la posicion: 314 ------ 243
+[ INFO] - :80 2022-05-30 00:42:54 - Las posiciones para punto 1: 314 243   posicion para el punto2:  314 243
+[ INFO] - :165 2022-05-30 00:42:55 - PosicionRestado: 0 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:42:56 - Se hizo click en la posicion: 310 ------ 213
+[ INFO] - :80 2022-05-30 00:42:56 - Las posiciones para punto 1: 310 213   posicion para el punto2:  309 213
+[ INFO] - :165 2022-05-30 00:42:56 - PosicionRestado: 0 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:42:57 - Se hizo click en la posicion: 270 ------ 214
+[ INFO] - :80 2022-05-30 00:42:57 - Las posiciones para punto 1: 270 214   posicion para el punto2:  274 214
+[ INFO] - :158 2022-05-30 00:42:58 - PosicionAumentado: 1 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:42:58 - Se hizo click en la posicion: 305 ------ 220
+[ INFO] - :80 2022-05-30 00:42:58 - Las posiciones para punto 1: 305 220   posicion para el punto2:  305 220
+[ INFO] - :158 2022-05-30 00:42:59 - PosicionAumentado: 2 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:43:00 - Se hizo click en la posicion: 212 ------ 232
+[ INFO] - :80 2022-05-30 00:43:00 - Las posiciones para punto 1: 212 232   posicion para el punto2:  214 235
+[ INFO] - :158 2022-05-30 00:43:00 - PosicionAumentado: 3 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:43:02 - Se hizo click en la posicion: 297 ------ 258
+[ INFO] - :80 2022-05-30 00:43:02 - Las posiciones para punto 1: 297 258   posicion para el punto2:  297 258
+[ INFO] - :158 2022-05-30 00:43:03 - PosicionAumentado: 4 Tamaño lista 5
+[ INFO] - :158 2022-05-30 00:43:07 - PosicionAumentado: 4 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:43:52 - Se hizo click en la posicion: 43 ------ 41
+[ INFO] - :80 2022-05-30 00:43:52 - Las posiciones para punto 1: 43 41   posicion para el punto2:  134 148
+[ INFO] - :145 2022-05-30 00:43:53 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 00:43:54 - Se hizo click en la posicion: 206 ------ 55
+[ INFO] - :80 2022-05-30 00:43:54 - Las posiciones para punto 1: 206 55   posicion para el punto2:  309 186
+[ INFO] - :145 2022-05-30 00:43:55 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:43:55 - Se hizo click en la posicion: 341 ------ 85
+[ INFO] - :80 2022-05-30 00:43:56 - Las posiciones para punto 1: 341 85   posicion para el punto2:  428 189
+[ INFO] - :145 2022-05-30 00:43:56 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:43:57 - Se hizo click en la posicion: 86 ------ 206
+[ INFO] - :80 2022-05-30 00:43:58 - Las posiciones para punto 1: 86 206   posicion para el punto2:  184 294
+[ INFO] - :145 2022-05-30 00:43:59 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:43:59 - Se hizo click en la posicion: 240 ------ 208
+[ INFO] - :80 2022-05-30 00:43:59 - Las posiciones para punto 1: 240 208   posicion para el punto2:  310 288
+[ INFO] - :145 2022-05-30 00:44:01 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 00:44:01 - Se hizo click en la posicion: 346 ------ 218
+[ INFO] - :80 2022-05-30 00:44:02 - Las posiciones para punto 1: 346 218   posicion para el punto2:  432 252
+[ INFO] - :145 2022-05-30 00:44:03 - Tamaño: 7  la posicion es: 6
+[ INFO] - :59 2022-05-30 00:44:03 - Se hizo click en la posicion: 471 ------ 194
+[ INFO] - :80 2022-05-30 00:44:03 - Las posiciones para punto 1: 471 194   posicion para el punto2:  471 194
+[ INFO] - :165 2022-05-30 00:44:04 - PosicionRestado: 5 Tamaño lista 7
+[ INFO] - :59 2022-05-30 00:44:04 - Se hizo click en la posicion: 441 ------ 190
+[ INFO] - :80 2022-05-30 00:44:04 - Las posiciones para punto 1: 441 190   posicion para el punto2:  441 190
+[ INFO] - :165 2022-05-30 00:44:05 - PosicionRestado: 4 Tamaño lista 7
+[ INFO] - :59 2022-05-30 00:44:05 - Se hizo click en la posicion: 421 ------ 201
+[ INFO] - :80 2022-05-30 00:44:05 - Las posiciones para punto 1: 421 201   posicion para el punto2:  421 201
+[ INFO] - :165 2022-05-30 00:44:06 - PosicionRestado: 3 Tamaño lista 7
+[ INFO] - :59 2022-05-30 00:44:06 - Se hizo click en la posicion: 328 ------ 214
+[ INFO] - :80 2022-05-30 00:44:06 - Las posiciones para punto 1: 328 214   posicion para el punto2:  328 214
+[ INFO] - :165 2022-05-30 00:44:07 - PosicionRestado: 2 Tamaño lista 7
+[ INFO] - :59 2022-05-30 00:44:08 - Se hizo click en la posicion: 391 ------ 217
+[ INFO] - :80 2022-05-30 00:44:08 - Las posiciones para punto 1: 391 217   posicion para el punto2:  391 217
+[ INFO] - :158 2022-05-30 00:44:09 - PosicionAumentado: 3 Tamaño lista 7
+[ INFO] - :59 2022-05-30 00:44:10 - Se hizo click en la posicion: 198 ------ 248
+[ INFO] - :80 2022-05-30 00:44:10 - Las posiciones para punto 1: 198 248   posicion para el punto2:  198 248
+[ INFO] - :165 2022-05-30 00:44:10 - PosicionRestado: 2 Tamaño lista 7
+[ INFO] - :59 2022-05-30 00:44:14 - Se hizo click en la posicion: 377 ------ 68
+[ INFO] - :80 2022-05-30 00:44:14 - Las posiciones para punto 1: 377 68   posicion para el punto2:  377 68
+[ INFO] - :158 2022-05-30 00:44:15 - PosicionAumentado: 3 Tamaño lista 7
+[ INFO] - :59 2022-05-30 00:44:15 - Se hizo click en la posicion: 415 ------ 160
+[ INFO] - :80 2022-05-30 00:44:15 - Las posiciones para punto 1: 415 160   posicion para el punto2:  415 160
+[ INFO] - :158 2022-05-30 00:44:16 - PosicionAumentado: 4 Tamaño lista 7
+[ INFO] - :59 2022-05-30 00:44:16 - Se hizo click en la posicion: 405 ------ 254
+[ INFO] - :80 2022-05-30 00:44:16 - Las posiciones para punto 1: 405 254   posicion para el punto2:  405 254
+[ INFO] - :158 2022-05-30 00:44:17 - PosicionAumentado: 5 Tamaño lista 7
+[ INFO] - :59 2022-05-30 00:44:18 - Se hizo click en la posicion: 450 ------ 245
+[ INFO] - :80 2022-05-30 00:44:18 - Las posiciones para punto 1: 450 245   posicion para el punto2:  452 245
+[ INFO] - :158 2022-05-30 00:44:18 - PosicionAumentado: 6 Tamaño lista 7
+[ INFO] - :59 2022-05-30 00:44:19 - Se hizo click en la posicion: 477 ------ 233
+[ INFO] - :80 2022-05-30 00:44:19 - Las posiciones para punto 1: 477 233   posicion para el punto2:  477 233
+[ INFO] - :158 2022-05-30 00:44:20 - PosicionAumentado: 6 Tamaño lista 7
+[ INFO] - :59 2022-05-30 00:44:40 - Se hizo click en la posicion: 180 ------ 144
+[ INFO] - :80 2022-05-30 00:44:40 - Las posiciones para punto 1: 180 144   posicion para el punto2:  180 144
+[ INFO] - :165 2022-05-30 00:44:40 - PosicionRestado: 5 Tamaño lista 7
+[ INFO] - :59 2022-05-30 00:44:41 - Se hizo click en la posicion: 244 ------ 155
+[ INFO] - :80 2022-05-30 00:44:41 - Las posiciones para punto 1: 244 155   posicion para el punto2:  244 154
+[ INFO] - :165 2022-05-30 00:44:42 - PosicionRestado: 4 Tamaño lista 7
+[ INFO] - :59 2022-05-30 00:44:42 - Se hizo click en la posicion: 197 ------ 208
+[ INFO] - :80 2022-05-30 00:44:42 - Las posiciones para punto 1: 197 208   posicion para el punto2:  197 208
+[ INFO] - :165 2022-05-30 00:44:43 - PosicionRestado: 3 Tamaño lista 7
+[ INFO] - :59 2022-05-30 00:44:43 - Se hizo click en la posicion: 231 ------ 175
+[ INFO] - :80 2022-05-30 00:44:43 - Las posiciones para punto 1: 231 175   posicion para el punto2:  231 175
+[ INFO] - :165 2022-05-30 00:44:44 - PosicionRestado: 2 Tamaño lista 7
+[ INFO] - :59 2022-05-30 00:44:45 - Se hizo click en la posicion: 346 ------ 85
+[ INFO] - :80 2022-05-30 00:44:45 - Las posiciones para punto 1: 346 85   posicion para el punto2:  464 222
+[ INFO] - :140 2022-05-30 00:44:46 - -----------------------FOR-------Tamaño: 6  la posicion es: 2  i6
+[ INFO] - :142 2022-05-30 00:44:46 - FOR-------Tamaño: 6  la posicion es: 2
+[ INFO] - :140 2022-05-30 00:44:46 - -----------------------FOR-------Tamaño: 5  la posicion es: 2  i5
+[ INFO] - :142 2022-05-30 00:44:46 - FOR-------Tamaño: 5  la posicion es: 2
+[ INFO] - :140 2022-05-30 00:44:46 - -----------------------FOR-------Tamaño: 4  la posicion es: 2  i4
+[ INFO] - :142 2022-05-30 00:44:46 - FOR-------Tamaño: 4  la posicion es: 2
+[ INFO] - :140 2022-05-30 00:44:46 - -----------------------FOR-------Tamaño: 3  la posicion es: 2  i3
+[ INFO] - :142 2022-05-30 00:44:46 - FOR-------Tamaño: 3  la posicion es: 2
+[ INFO] - :145 2022-05-30 00:44:46 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:44:47 - Se hizo click en la posicion: 70 ------ 217
+[ INFO] - :80 2022-05-30 00:44:48 - Las posiciones para punto 1: 70 217   posicion para el punto2:  163 277
+[ INFO] - :145 2022-05-30 00:44:49 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:45:22 - Se hizo click en la posicion: 258 ------ 128
+[ INFO] - :80 2022-05-30 00:45:22 - Las posiciones para punto 1: 258 128   posicion para el punto2:  258 128
+[ INFO] - :158 2022-05-30 00:45:26 - PosicionAumentado: 3 Tamaño lista 4
+[ INFO] - :59 2022-05-30 00:45:27 - Se hizo click en la posicion: 366 ------ 260
+[ INFO] - :80 2022-05-30 00:45:27 - Las posiciones para punto 1: 366 260   posicion para el punto2:  366 260
+[ INFO] - :158 2022-05-30 00:45:28 - PosicionAumentado: 3 Tamaño lista 4
+[ INFO] - :59 2022-05-30 00:45:29 - Se hizo click en la posicion: 214 ------ 237
+[ INFO] - :80 2022-05-30 00:45:30 - Las posiciones para punto 1: 214 237   posicion para el punto2:  336 297
+[ INFO] - :145 2022-05-30 00:45:31 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:45:31 - Se hizo click en la posicion: 387 ------ 254
+[ INFO] - :80 2022-05-30 00:45:32 - Las posiciones para punto 1: 387 254   posicion para el punto2:  487 291
+[ INFO] - :145 2022-05-30 00:45:33 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 00:45:35 - Se hizo click en la posicion: 416 ------ 258
+[ INFO] - :80 2022-05-30 00:45:35 - Las posiciones para punto 1: 416 258   posicion para el punto2:  416 258
+[ INFO] - :165 2022-05-30 00:45:36 - PosicionRestado: 4 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:45:37 - Se hizo click en la posicion: 353 ------ 266
+[ INFO] - :80 2022-05-30 00:45:37 - Las posiciones para punto 1: 353 266   posicion para el punto2:  353 267
+[ INFO] - :165 2022-05-30 00:45:38 - PosicionRestado: 3 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:45:42 - Se hizo click en la posicion: 319 ------ 267
+[ INFO] - :80 2022-05-30 00:45:42 - Las posiciones para punto 1: 319 267   posicion para el punto2:  319 267
+[ INFO] - :165 2022-05-30 00:45:43 - PosicionRestado: 2 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:45:46 - Se hizo click en la posicion: 264 ------ 264
+[ INFO] - :80 2022-05-30 00:45:46 - Las posiciones para punto 1: 264 264   posicion para el punto2:  264 264
+[ INFO] - :165 2022-05-30 00:45:46 - PosicionRestado: 1 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:45:47 - Se hizo click en la posicion: 272 ------ 282
+[ INFO] - :80 2022-05-30 00:45:47 - Las posiciones para punto 1: 272 282   posicion para el punto2:  273 283
+[ INFO] - :165 2022-05-30 00:45:48 - PosicionRestado: 0 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:46:16 - Se hizo click en la posicion: 55 ------ 27
+[ INFO] - :80 2022-05-30 00:46:16 - Las posiciones para punto 1: 55 27   posicion para el punto2:  122 109
+[ INFO] - :145 2022-05-30 00:46:18 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 00:46:20 - Se hizo click en la posicion: 153 ------ 39
+[ INFO] - :80 2022-05-30 00:46:20 - Las posiciones para punto 1: 153 39   posicion para el punto2:  217 99
+[ INFO] - :145 2022-05-30 00:46:21 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:46:21 - Se hizo click en la posicion: 259 ------ 55
+[ INFO] - :80 2022-05-30 00:46:22 - Las posiciones para punto 1: 259 55   posicion para el punto2:  326 147
+[ INFO] - :145 2022-05-30 00:46:23 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:46:23 - Se hizo click en la posicion: 363 ------ 64
+[ INFO] - :80 2022-05-30 00:46:23 - Las posiciones para punto 1: 363 64   posicion para el punto2:  413 152
+[ INFO] - :145 2022-05-30 00:46:24 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:46:25 - Se hizo click en la posicion: 82 ------ 146
+[ INFO] - :80 2022-05-30 00:46:25 - Las posiciones para punto 1: 82 146   posicion para el punto2:  145 221
+[ INFO] - :145 2022-05-30 00:46:26 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 00:46:27 - Se hizo click en la posicion: 218 ------ 181
+[ INFO] - :80 2022-05-30 00:46:27 - Las posiciones para punto 1: 218 181   posicion para el punto2:  334 249
+[ INFO] - :145 2022-05-30 00:46:28 - Tamaño: 7  la posicion es: 6
+[ INFO] - :59 2022-05-30 00:46:31 - Se hizo click en la posicion: 422 ------ 283
+[ INFO] - :80 2022-05-30 00:46:32 - Las posiciones para punto 1: 422 283   posicion para el punto2:  423 283
+[ INFO] - :165 2022-05-30 00:46:32 - PosicionRestado: 5 Tamaño lista 7
+[ INFO] - :59 2022-05-30 00:46:41 - Se hizo click en la posicion: 334 ------ 249
+[ INFO] - :80 2022-05-30 00:46:41 - Las posiciones para punto 1: 334 249   posicion para el punto2:  334 249
+[ INFO] - :165 2022-05-30 00:46:42 - PosicionRestado: 4 Tamaño lista 7
+[ INFO] - :59 2022-05-30 00:47:48 - Se hizo click en la posicion: 30 ------ 31
+[ INFO] - :80 2022-05-30 00:47:48 - Las posiciones para punto 1: 30 31   posicion para el punto2:  99 147
+[ INFO] - :146 2022-05-30 00:47:49 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 00:47:49 - Se hizo click en la posicion: 127 ------ 45
+[ INFO] - :80 2022-05-30 00:47:50 - Las posiciones para punto 1: 127 45   posicion para el punto2:  184 154
+[ INFO] - :146 2022-05-30 00:47:50 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:47:51 - Se hizo click en la posicion: 232 ------ 46
+[ INFO] - :80 2022-05-30 00:47:51 - Las posiciones para punto 1: 232 46   posicion para el punto2:  329 182
+[ INFO] - :146 2022-05-30 00:47:52 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:47:52 - Se hizo click en la posicion: 369 ------ 53
+[ INFO] - :80 2022-05-30 00:47:53 - Las posiciones para punto 1: 369 53   posicion para el punto2:  448 197
+[ INFO] - :146 2022-05-30 00:47:53 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:47:54 - Se hizo click en la posicion: 50 ------ 195
+[ INFO] - :80 2022-05-30 00:47:54 - Las posiciones para punto 1: 50 195   posicion para el punto2:  107 276
+[ INFO] - :146 2022-05-30 00:47:56 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 00:48:00 - Se hizo click en la posicion: 375 ------ 221
+[ INFO] - :80 2022-05-30 00:48:00 - Las posiciones para punto 1: 375 221   posicion para el punto2:  375 221
+[ INFO] - :166 2022-05-30 00:48:02 - PosicionRestado: 4 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:48:02 - Se hizo click en la posicion: 360 ------ 254
+[ INFO] - :80 2022-05-30 00:48:02 - Las posiciones para punto 1: 360 254   posicion para el punto2:  360 254
+[ INFO] - :166 2022-05-30 00:48:03 - PosicionRestado: 3 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:48:03 - Se hizo click en la posicion: 416 ------ 236
+[ INFO] - :80 2022-05-30 00:48:03 - Las posiciones para punto 1: 416 236   posicion para el punto2:  416 236
+[ INFO] - :166 2022-05-30 00:48:04 - PosicionRestado: 2 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:48:05 - Se hizo click en la posicion: 223 ------ 62
+[ INFO] - :80 2022-05-30 00:48:05 - Las posiciones para punto 1: 223 62   posicion para el punto2:  277 175
+[ INFO] - :140 2022-05-30 00:48:06 - -----------------------FOR-------Tamaño: 5  la posicion es: 2  i5
+[ INFO] - :143 2022-05-30 00:48:06 - FOR-------Tamaño: 5  la posicion es: 3
+[ INFO] - :140 2022-05-30 00:48:06 - -----------------------FOR-------Tamaño: 4  la posicion es: 3  i4
+[ INFO] - :143 2022-05-30 00:48:06 - FOR-------Tamaño: 4  la posicion es: 4
+[ INFO] - :140 2022-05-30 00:48:06 - -----------------------FOR-------Tamaño: 3  la posicion es: 4  i3
+[ INFO] - :143 2022-05-30 00:48:06 - FOR-------Tamaño: 3  la posicion es: 5
+[ INFO] - :140 2022-05-30 00:48:06 - -----------------------FOR-------Tamaño: 2  la posicion es: 5  i2
+[ INFO] - :143 2022-05-30 00:48:06 - FOR-------Tamaño: 2  la posicion es: 6
+[ INFO] - :140 2022-05-30 00:48:06 - -----------------------FOR-------Tamaño: 1  la posicion es: 6  i1
+[ INFO] - :143 2022-05-30 00:48:06 - FOR-------Tamaño: 1  la posicion es: 7
+[ INFO] - :140 2022-05-30 00:48:06 - -----------------------FOR-------Tamaño: 0  la posicion es: 7  i0
+[ INFO] - :143 2022-05-30 00:48:06 - FOR-------Tamaño: 0  la posicion es: 8
+[ INFO] - :146 2022-05-30 00:48:06 - Tamaño: 0  la posicion es: 8
+[ INFO] - :59 2022-05-30 00:48:07 - Se hizo click en la posicion: 311 ------ 58
+[ INFO] - :80 2022-05-30 00:48:08 - Las posiciones para punto 1: 311 58   posicion para el punto2:  382 167
+[ INFO] - :146 2022-05-30 00:48:09 - Tamaño: 0  la posicion es: 8
+[ INFO] - :59 2022-05-30 00:48:10 - Se hizo click en la posicion: 422 ------ 31
+[ INFO] - :80 2022-05-30 00:48:10 - Las posiciones para punto 1: 422 31   posicion para el punto2:  482 118
+[ INFO] - :146 2022-05-30 00:48:11 - Tamaño: 0  la posicion es: 8
+[ INFO] - :59 2022-05-30 00:48:12 - Se hizo click en la posicion: 448 ------ 217
+[ INFO] - :80 2022-05-30 00:48:12 - Las posiciones para punto 1: 448 217   posicion para el punto2:  448 217
+[ INFO] - :166 2022-05-30 00:48:12 - PosicionRestado: 7 Tamaño lista 0
+[ INFO] - :59 2022-05-30 00:49:07 - Se hizo click en la posicion: 31 ------ 34
+[ INFO] - :80 2022-05-30 00:49:07 - Las posiciones para punto 1: 31 34   posicion para el punto2:  87 115
+[ INFO] - :147 2022-05-30 00:49:08 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 00:49:09 - Se hizo click en la posicion: 142 ------ 50
+[ INFO] - :80 2022-05-30 00:49:09 - Las posiciones para punto 1: 142 50   posicion para el punto2:  206 145
+[ INFO] - :147 2022-05-30 00:49:10 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:49:11 - Se hizo click en la posicion: 237 ------ 59
+[ INFO] - :80 2022-05-30 00:49:11 - Las posiciones para punto 1: 237 59   posicion para el punto2:  311 179
+[ INFO] - :147 2022-05-30 00:49:12 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:49:12 - Se hizo click en la posicion: 332 ------ 61
+[ INFO] - :80 2022-05-30 00:49:13 - Las posiciones para punto 1: 332 61   posicion para el punto2:  429 171
+[ INFO] - :147 2022-05-30 00:49:13 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:49:14 - Se hizo click en la posicion: 104 ------ 180
+[ INFO] - :80 2022-05-30 00:49:14 - Las posiciones para punto 1: 104 180   posicion para el punto2:  172 269
+[ INFO] - :147 2022-05-30 00:49:15 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 00:51:46 - Se hizo click en la posicion: 277 ------ 104
+[ INFO] - :80 2022-05-30 00:51:46 - Las posiciones para punto 1: 277 104   posicion para el punto2:  277 104
+[ INFO] - :167 2022-05-30 00:51:47 - PosicionRestado: 4 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:52:05 - Se hizo click en la posicion: 229 ------ 268
+[ INFO] - :80 2022-05-30 00:52:05 - Las posiciones para punto 1: 229 268   posicion para el punto2:  229 268
+[ INFO] - :167 2022-05-30 00:52:06 - PosicionRestado: 3 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:54:22 - Se hizo click en la posicion: 101 ------ 62
+[ INFO] - :80 2022-05-30 00:54:22 - Las posiciones para punto 1: 101 62   posicion para el punto2:  204 159
+[ INFO] - :147 2022-05-30 00:54:24 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 00:54:24 - Se hizo click en la posicion: 251 ------ 72
+[ INFO] - :80 2022-05-30 00:54:24 - Las posiciones para punto 1: 251 72   posicion para el punto2:  312 140
+[ INFO] - :147 2022-05-30 00:54:25 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:54:26 - Se hizo click en la posicion: 121 ------ 175
+[ INFO] - :80 2022-05-30 00:54:26 - Las posiciones para punto 1: 121 175   posicion para el punto2:  189 247
+[ INFO] - :147 2022-05-30 00:54:27 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:54:27 - Se hizo click en la posicion: 226 ------ 176
+[ INFO] - :80 2022-05-30 00:54:28 - Las posiciones para punto 1: 226 176   posicion para el punto2:  290 242
+[ INFO] - :147 2022-05-30 00:54:29 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:54:29 - Se hizo click en la posicion: 339 ------ 168
+[ INFO] - :80 2022-05-30 00:54:30 - Las posiciones para punto 1: 339 168   posicion para el punto2:  400 229
+[ INFO] - :147 2022-05-30 00:54:31 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 00:54:31 - Se hizo click en la posicion: 278 ------ 250
+[ INFO] - :80 2022-05-30 00:54:31 - Las posiciones para punto 1: 278 250   posicion para el punto2:  277 250
+[ INFO] - :167 2022-05-30 00:54:32 - PosicionRestado: 4 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:54:32 - Se hizo click en la posicion: 326 ------ 238
+[ INFO] - :80 2022-05-30 00:54:32 - Las posiciones para punto 1: 326 238   posicion para el punto2:  326 238
+[ INFO] - :167 2022-05-30 00:54:33 - PosicionRestado: 3 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:54:33 - Se hizo click en la posicion: 295 ------ 229
+[ INFO] - :80 2022-05-30 00:54:33 - Las posiciones para punto 1: 295 229   posicion para el punto2:  292 229
+[ INFO] - :167 2022-05-30 00:54:34 - PosicionRestado: 2 Tamaño lista 6
+[ INFO] - :59 2022-05-30 00:54:35 - Se hizo click en la posicion: 355 ------ 74
+[ INFO] - :80 2022-05-30 00:54:36 - Las posiciones para punto 1: 355 74   posicion para el punto2:  402 137
+[ INFO] - :140 2022-05-30 00:54:37 - -----------------------FOR-------Tamaño: 5  la posicion es: 2  i5
+[ INFO] - :144 2022-05-30 00:54:37 - FOR-------Tamaño: 5  la posicion es: 2
+[ INFO] - :140 2022-05-30 00:54:37 - -----------------------FOR-------Tamaño: 4  la posicion es: 2  i4
+[ INFO] - :144 2022-05-30 00:54:37 - FOR-------Tamaño: 4  la posicion es: 2
+[ INFO] - :147 2022-05-30 00:54:37 - Tamaño: 4  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:54:38 - Se hizo click en la posicion: 187 ------ 201
+[ INFO] - :80 2022-05-30 00:54:38 - Las posiciones para punto 1: 187 201   posicion para el punto2:  242 242
+[ INFO] - :147 2022-05-30 00:54:39 - Tamaño: 4  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:54:40 - Se hizo click en la posicion: 277 ------ 198
+[ INFO] - :80 2022-05-30 00:54:40 - Las posiciones para punto 1: 277 198   posicion para el punto2:  324 241
+[ INFO] - :147 2022-05-30 00:54:41 - Tamaño: 4  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:54:42 - Se hizo click en la posicion: 379 ------ 238
+[ INFO] - :80 2022-05-30 00:54:42 - Las posiciones para punto 1: 379 238   posicion para el punto2:  379 238
+[ INFO] - :167 2022-05-30 00:54:43 - PosicionRestado: 1 Tamaño lista 4
+[ INFO] - :59 2022-05-30 00:54:51 - Se hizo click en la posicion: 275 ------ 266
+[ INFO] - :80 2022-05-30 00:54:51 - Las posiciones para punto 1: 275 266   posicion para el punto2:  275 266
+[ INFO] - :167 2022-05-30 00:54:52 - PosicionRestado: 0 Tamaño lista 4
+[ INFO] - :59 2022-05-30 00:54:53 - Se hizo click en la posicion: 236 ------ 262
+[ INFO] - :80 2022-05-30 00:54:53 - Las posiciones para punto 1: 236 262   posicion para el punto2:  236 262
+[ INFO] - :167 2022-05-30 00:54:54 - PosicionRestado: 0 Tamaño lista 4
+[ INFO] - :59 2022-05-30 00:54:55 - Se hizo click en la posicion: 287 ------ 258
+[ INFO] - :80 2022-05-30 00:54:55 - Las posiciones para punto 1: 287 258   posicion para el punto2:  287 258
+[ INFO] - :160 2022-05-30 00:54:56 - PosicionAumentado: 1 Tamaño lista 4
+[ INFO] - :59 2022-05-30 00:54:57 - Se hizo click en la posicion: 253 ------ 248
+[ INFO] - :80 2022-05-30 00:54:57 - Las posiciones para punto 1: 253 248   posicion para el punto2:  253 248
+[ INFO] - :160 2022-05-30 00:54:57 - PosicionAumentado: 2 Tamaño lista 4
+[ INFO] - :59 2022-05-30 00:54:58 - Se hizo click en la posicion: 300 ------ 253
+[ INFO] - :80 2022-05-30 00:54:58 - Las posiciones para punto 1: 300 253   posicion para el punto2:  300 253
+[ INFO] - :160 2022-05-30 00:55:05 - PosicionAumentado: 3 Tamaño lista 4
+[ INFO] - :59 2022-05-30 00:55:06 - Se hizo click en la posicion: 246 ------ 226
+[ INFO] - :80 2022-05-30 00:55:06 - Las posiciones para punto 1: 246 226   posicion para el punto2:  246 226
+[ INFO] - :167 2022-05-30 00:55:07 - PosicionRestado: 2 Tamaño lista 4
+[ INFO] - :59 2022-05-30 00:55:08 - Se hizo click en la posicion: 419 ------ 224
+[ INFO] - :80 2022-05-30 00:55:08 - Las posiciones para punto 1: 419 224   posicion para el punto2:  419 224
+[ INFO] - :160 2022-05-30 00:55:09 - PosicionAumentado: 3 Tamaño lista 4
+[ INFO] - :59 2022-05-30 00:55:10 - Se hizo click en la posicion: 357 ------ 244
+[ INFO] - :80 2022-05-30 00:55:10 - Las posiciones para punto 1: 357 244   posicion para el punto2:  357 244
+[ INFO] - :160 2022-05-30 00:55:11 - PosicionAumentado: 3 Tamaño lista 4
+[ INFO] - :59 2022-05-30 00:55:11 - Se hizo click en la posicion: 362 ------ 255
+[ INFO] - :80 2022-05-30 00:55:11 - Las posiciones para punto 1: 362 255   posicion para el punto2:  362 255
+[ INFO] - :160 2022-05-30 00:55:12 - PosicionAumentado: 3 Tamaño lista 4
+[ INFO] - :59 2022-05-30 00:55:12 - Se hizo click en la posicion: 315 ------ 219
+[ INFO] - :80 2022-05-30 00:55:12 - Las posiciones para punto 1: 315 219   posicion para el punto2:  315 219
+[ INFO] - :160 2022-05-30 00:55:13 - PosicionAumentado: 3 Tamaño lista 4
+[ INFO] - :59 2022-05-30 00:55:14 - Se hizo click en la posicion: 264 ------ 208
+[ INFO] - :80 2022-05-30 00:55:14 - Las posiciones para punto 1: 264 208   posicion para el punto2:  264 208
+[ INFO] - :167 2022-05-30 00:55:14 - PosicionRestado: 2 Tamaño lista 4
+[ INFO] - :59 2022-05-30 00:55:15 - Se hizo click en la posicion: 274 ------ 226
+[ INFO] - :80 2022-05-30 00:55:15 - Las posiciones para punto 1: 274 226   posicion para el punto2:  274 226
+[ INFO] - :167 2022-05-30 00:55:16 - PosicionRestado: 1 Tamaño lista 4
+[ INFO] - :59 2022-05-30 00:55:17 - Se hizo click en la posicion: 309 ------ 224
+[ INFO] - :80 2022-05-30 00:55:17 - Las posiciones para punto 1: 309 224   posicion para el punto2:  308 224
+[ INFO] - :167 2022-05-30 00:55:17 - PosicionRestado: 0 Tamaño lista 4
+[ INFO] - :59 2022-05-30 00:55:19 - Se hizo click en la posicion: 385 ------ 238
+[ INFO] - :80 2022-05-30 00:55:19 - Las posiciones para punto 1: 385 238   posicion para el punto2:  386 239
+[ INFO] - :160 2022-05-30 00:55:19 - PosicionAumentado: 1 Tamaño lista 4
+[ INFO] - :59 2022-05-30 00:55:20 - Se hizo click en la posicion: 336 ------ 225
+[ INFO] - :80 2022-05-30 00:55:20 - Las posiciones para punto 1: 335 223   posicion para el punto2:  336 225
+[ INFO] - :160 2022-05-30 00:55:20 - PosicionAumentado: 2 Tamaño lista 4
+[ INFO] - :59 2022-05-30 00:55:22 - Se hizo click en la posicion: 338 ------ 238
+[ INFO] - :80 2022-05-30 00:55:22 - Las posiciones para punto 1: 338 238   posicion para el punto2:  338 238
+[ INFO] - :160 2022-05-30 00:55:22 - PosicionAumentado: 3 Tamaño lista 4
+[ INFO] - :59 2022-05-30 00:55:23 - Se hizo click en la posicion: 289 ------ 232
+[ INFO] - :80 2022-05-30 00:55:23 - Las posiciones para punto 1: 289 232   posicion para el punto2:  289 232
+[ INFO] - :160 2022-05-30 00:55:25 - PosicionAumentado: 3 Tamaño lista 4
+[ INFO] - :59 2022-05-30 00:56:19 - Se hizo click en la posicion: 25 ------ 18
+[ INFO] - :80 2022-05-30 00:56:19 - Las posiciones para punto 1: 25 18   posicion para el punto2:  99 160
+[ INFO] - :147 2022-05-30 00:56:20 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 00:56:21 - Se hizo click en la posicion: 139 ------ 19
+[ INFO] - :80 2022-05-30 00:56:21 - Las posiciones para punto 1: 139 19   posicion para el punto2:  225 156
+[ INFO] - :147 2022-05-30 00:56:22 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 00:56:23 - Se hizo click en la posicion: 239 ------ 23
+[ INFO] - :80 2022-05-30 00:56:23 - Las posiciones para punto 1: 239 23   posicion para el punto2:  313 139
+[ INFO] - :147 2022-05-30 00:56:24 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:56:24 - Se hizo click en la posicion: 352 ------ 26
+[ INFO] - :80 2022-05-30 00:56:25 - Las posiciones para punto 1: 352 26   posicion para el punto2:  416 122
+[ INFO] - :147 2022-05-30 00:56:26 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 00:56:26 - Se hizo click en la posicion: 87 ------ 209
+[ INFO] - :80 2022-05-30 00:56:27 - Las posiciones para punto 1: 87 209   posicion para el punto2:  155 270
+[ INFO] - :147 2022-05-30 00:56:28 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 00:56:28 - Se hizo click en la posicion: 235 ------ 217
+[ INFO] - :80 2022-05-30 00:56:28 - Las posiciones para punto 1: 235 217   posicion para el punto2:  274 253
+[ INFO] - :147 2022-05-30 00:56:29 - Tamaño: 7  la posicion es: 6
+[ INFO] - :59 2022-05-30 00:56:29 - Se hizo click en la posicion: 320 ------ 204
+[ INFO] - :80 2022-05-30 00:56:30 - Las posiciones para punto 1: 320 204   posicion para el punto2:  376 257
+[ INFO] - :147 2022-05-30 00:56:30 - Tamaño: 8  la posicion es: 7
+[ INFO] - :59 2022-05-30 00:56:32 - Se hizo click en la posicion: 503 ------ 153
+[ INFO] - :80 2022-05-30 00:56:32 - Las posiciones para punto 1: 503 153   posicion para el punto2:  503 153
+[ INFO] - :167 2022-05-30 00:56:33 - PosicionRestado: 6 Tamaño lista 8
+[ INFO] - :59 2022-05-30 00:56:34 - Se hizo click en la posicion: 359 ------ 213
+[ INFO] - :80 2022-05-30 00:56:34 - Las posiciones para punto 1: 359 213   posicion para el punto2:  359 213
+[ INFO] - :167 2022-05-30 00:56:35 - PosicionRestado: 5 Tamaño lista 8
+[ INFO] - :59 2022-05-30 00:56:35 - Se hizo click en la posicion: 326 ------ 237
+[ INFO] - :80 2022-05-30 00:56:35 - Las posiciones para punto 1: 317 237   posicion para el punto2:  326 241
+[ INFO] - :167 2022-05-30 00:56:36 - PosicionRestado: 4 Tamaño lista 8
+[ INFO] - :59 2022-05-30 00:56:36 - Se hizo click en la posicion: 311 ------ 228
+[ INFO] - :80 2022-05-30 00:56:36 - Las posiciones para punto 1: 309 228   posicion para el punto2:  311 230
+[ INFO] - :167 2022-05-30 00:56:37 - PosicionRestado: 3 Tamaño lista 8
+[ INFO] - :59 2022-05-30 00:56:38 - Se hizo click en la posicion: 331 ------ 177
+[ INFO] - :80 2022-05-30 00:56:38 - Las posiciones para punto 1: 331 177   posicion para el punto2:  331 177
+[ INFO] - :167 2022-05-30 00:56:41 - PosicionRestado: 2 Tamaño lista 8
+[ INFO] - :59 2022-05-30 00:56:41 - Se hizo click en la posicion: 371 ------ 185
+[ INFO] - :80 2022-05-30 00:56:41 - Las posiciones para punto 1: 371 185   posicion para el punto2:  373 187
+[ INFO] - :160 2022-05-30 00:56:42 - PosicionAumentado: 3 Tamaño lista 8
+[ INFO] - :59 2022-05-30 00:56:43 - Se hizo click en la posicion: 373 ------ 50
+[ INFO] - :80 2022-05-30 00:56:43 - Las posiciones para punto 1: 373 50   posicion para el punto2:  425 151
+[ INFO] - :140 2022-05-30 00:56:45 - -----------------------FOR-------Tamaño: 7  la posicion es: 3  i7
+[ INFO] - :144 2022-05-30 00:56:45 - FOR-------Tamaño: 7  la posicion es: 3
+[ INFO] - :140 2022-05-30 00:56:45 - -----------------------FOR-------Tamaño: 6  la posicion es: 3  i6
+[ INFO] - :144 2022-05-30 00:56:45 - FOR-------Tamaño: 6  la posicion es: 3
+[ INFO] - :140 2022-05-30 00:56:45 - -----------------------FOR-------Tamaño: 5  la posicion es: 3  i5
+[ INFO] - :144 2022-05-30 00:56:45 - FOR-------Tamaño: 5  la posicion es: 3
+[ INFO] - :147 2022-05-30 00:56:45 - Tamaño: 5  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:56:46 - Se hizo click en la posicion: 451 ------ 55
+[ INFO] - :80 2022-05-30 00:56:46 - Las posiciones para punto 1: 451 55   posicion para el punto2:  508 161
+[ INFO] - :147 2022-05-30 00:56:47 - Tamaño: 5  la posicion es: 3
+[ INFO] - :59 2022-05-30 00:56:48 - Se hizo click en la posicion: 481 ------ 219
+[ INFO] - :80 2022-05-30 00:56:48 - Las posiciones para punto 1: 481 219   posicion para el punto2:  481 219
+[ INFO] - :167 2022-05-30 00:56:50 - PosicionRestado: 2 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:56:53 - Se hizo click en la posicion: 245 ------ 257
+[ INFO] - :80 2022-05-30 00:56:53 - Las posiciones para punto 1: 245 257   posicion para el punto2:  245 257
+[ INFO] - :167 2022-05-30 00:56:54 - PosicionRestado: 1 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:56:55 - Se hizo click en la posicion: 217 ------ 209
+[ INFO] - :80 2022-05-30 00:56:55 - Las posiciones para punto 1: 217 209   posicion para el punto2:  217 209
+[ INFO] - :167 2022-05-30 00:56:56 - PosicionRestado: 0 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:56:57 - Se hizo click en la posicion: 198 ------ 148
+[ INFO] - :80 2022-05-30 00:56:57 - Las posiciones para punto 1: 198 148   posicion para el punto2:  198 148
+[ INFO] - :160 2022-05-30 00:56:58 - PosicionAumentado: 1 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:56:58 - Se hizo click en la posicion: 328 ------ 161
+[ INFO] - :80 2022-05-30 00:56:58 - Las posiciones para punto 1: 328 161   posicion para el punto2:  328 161
+[ INFO] - :160 2022-05-30 00:56:59 - PosicionAumentado: 2 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:56:59 - Se hizo click en la posicion: 350 ------ 183
+[ INFO] - :80 2022-05-30 00:56:59 - Las posiciones para punto 1: 350 183   posicion para el punto2:  350 183
+[ INFO] - :160 2022-05-30 00:57:00 - PosicionAumentado: 3 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:57:02 - Se hizo click en la posicion: 374 ------ 206
+[ INFO] - :80 2022-05-30 00:57:02 - Las posiciones para punto 1: 374 206   posicion para el punto2:  374 206
+[ INFO] - :160 2022-05-30 00:57:03 - PosicionAumentado: 4 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:57:05 - Se hizo click en la posicion: 279 ------ 149
+[ INFO] - :80 2022-05-30 00:57:05 - Las posiciones para punto 1: 279 149   posicion para el punto2:  279 149
+[ INFO] - :160 2022-05-30 00:57:06 - PosicionAumentado: 4 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:57:06 - Se hizo click en la posicion: 324 ------ 194
+[ INFO] - :80 2022-05-30 00:57:06 - Las posiciones para punto 1: 324 194   posicion para el punto2:  324 194
+[ INFO] - :160 2022-05-30 00:57:07 - PosicionAumentado: 4 Tamaño lista 5
+[ INFO] - :59 2022-05-30 00:57:08 - Se hizo click en la posicion: 220 ------ 142
+[ INFO] - :80 2022-05-30 00:57:08 - Las posiciones para punto 1: 220 142   posicion para el punto2:  229 154
+[ INFO] - :160 2022-05-30 00:57:09 - PosicionAumentado: 4 Tamaño lista 5
+[ INFO] - :59 2022-05-30 01:00:41 - Se hizo click en la posicion: 28 ------ 39
+[ INFO] - :80 2022-05-30 01:00:41 - Las posiciones para punto 1: 28 39   posicion para el punto2:  61 151
+[ INFO] - :147 2022-05-30 01:00:42 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 01:00:42 - Se hizo click en la posicion: 84 ------ 42
+[ INFO] - :80 2022-05-30 01:00:43 - Las posiciones para punto 1: 84 42   posicion para el punto2:  127 167
+[ INFO] - :147 2022-05-30 01:00:44 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 01:00:44 - Se hizo click en la posicion: 146 ------ 55
+[ INFO] - :80 2022-05-30 01:00:44 - Las posiciones para punto 1: 146 55   posicion para el punto2:  194 166
+[ INFO] - :147 2022-05-30 01:00:45 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 01:00:46 - Se hizo click en la posicion: 218 ------ 58
+[ INFO] - :80 2022-05-30 01:00:46 - Las posiciones para punto 1: 218 58   posicion para el punto2:  265 180
+[ INFO] - :147 2022-05-30 01:00:47 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 01:00:48 - Se hizo click en la posicion: 295 ------ 68
+[ INFO] - :80 2022-05-30 01:00:48 - Las posiciones para punto 1: 295 68   posicion para el punto2:  347 183
+[ INFO] - :147 2022-05-30 01:00:49 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 01:00:50 - Se hizo click en la posicion: 373 ------ 72
+[ INFO] - :80 2022-05-30 01:00:50 - Las posiciones para punto 1: 373 72   posicion para el punto2:  414 163
+[ INFO] - :147 2022-05-30 01:00:51 - Tamaño: 7  la posicion es: 6
+[ INFO] - :59 2022-05-30 01:00:51 - Se hizo click en la posicion: 496 ------ 149
+[ INFO] - :80 2022-05-30 01:00:51 - Las posiciones para punto 1: 496 149   posicion para el punto2:  496 149
+[ INFO] - :167 2022-05-30 01:00:52 - PosicionRestado: 5 Tamaño lista 7
+[ INFO] - :59 2022-05-30 01:00:53 - Se hizo click en la posicion: 372 ------ 215
+[ INFO] - :80 2022-05-30 01:00:53 - Las posiciones para punto 1: 372 215   posicion para el punto2:  372 215
+[ INFO] - :167 2022-05-30 01:00:53 - PosicionRestado: 4 Tamaño lista 7
+[ INFO] - :59 2022-05-30 01:00:54 - Se hizo click en la posicion: 319 ------ 140
+[ INFO] - :80 2022-05-30 01:00:54 - Las posiciones para punto 1: 319 140   posicion para el punto2:  319 140
+[ INFO] - :167 2022-05-30 01:00:55 - PosicionRestado: 3 Tamaño lista 7
+[ INFO] - :59 2022-05-30 01:00:56 - Se hizo click en la posicion: 215 ------ 61
+[ INFO] - :80 2022-05-30 01:00:57 - Las posiciones para punto 1: 215 61   posicion para el punto2:  288 297
+[ INFO] - :140 2022-05-30 01:00:58 - -----------------------FOR-------Tamaño: 6  la posicion es: 3  i5
+[ INFO] - :144 2022-05-30 01:00:58 - FOR-------Tamaño: 6  la posicion es: 3
+[ INFO] - :140 2022-05-30 01:00:58 - -----------------------FOR-------Tamaño: 5  la posicion es: 3  i4
+[ INFO] - :144 2022-05-30 01:00:58 - FOR-------Tamaño: 5  la posicion es: 3
+[ INFO] - :140 2022-05-30 01:00:58 - -----------------------FOR-------Tamaño: 4  la posicion es: 3  i3
+[ INFO] - :144 2022-05-30 01:00:58 - FOR-------Tamaño: 4  la posicion es: 3
+[ INFO] - :147 2022-05-30 01:00:58 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 01:00:59 - Se hizo click en la posicion: 307 ------ 61
+[ INFO] - :80 2022-05-30 01:01:00 - Las posiciones para punto 1: 307 61   posicion para el punto2:  373 286
+[ INFO] - :147 2022-05-30 01:01:01 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 01:01:02 - Se hizo click en la posicion: 398 ------ 65
+[ INFO] - :80 2022-05-30 01:01:02 - Las posiciones para punto 1: 398 65   posicion para el punto2:  458 300
+[ INFO] - :147 2022-05-30 01:01:03 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 01:01:04 - Se hizo click en la posicion: 464 ------ 210
+[ INFO] - :80 2022-05-30 01:01:04 - Las posiciones para punto 1: 464 210   posicion para el punto2:  464 210
+[ INFO] - :167 2022-05-30 01:01:05 - PosicionRestado: 4 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:01:06 - Se hizo click en la posicion: 407 ------ 253
+[ INFO] - :80 2022-05-30 01:01:06 - Las posiciones para punto 1: 407 253   posicion para el punto2:  407 253
+[ INFO] - :167 2022-05-30 01:01:07 - PosicionRestado: 3 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:01:12 - Se hizo click en la posicion: 289 ------ 245
+[ INFO] - :80 2022-05-30 01:01:12 - Las posiciones para punto 1: 289 245   posicion para el punto2:  289 245
+[ INFO] - :167 2022-05-30 01:01:13 - PosicionRestado: 2 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:01:17 - Se hizo click en la posicion: 366 ------ 167
+[ INFO] - :80 2022-05-30 01:01:17 - Las posiciones para punto 1: 366 167   posicion para el punto2:  366 167
+[ INFO] - :167 2022-05-30 01:01:19 - PosicionRestado: 1 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:01:20 - Se hizo click en la posicion: 253 ------ 243
+[ INFO] - :80 2022-05-30 01:01:20 - Las posiciones para punto 1: 253 243   posicion para el punto2:  253 243
+[ INFO] - :167 2022-05-30 01:01:21 - PosicionRestado: 0 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:01:23 - Se hizo click en la posicion: 265 ------ 127
+[ INFO] - :80 2022-05-30 01:01:23 - Las posiciones para punto 1: 265 127   posicion para el punto2:  265 127
+[ INFO] - :160 2022-05-30 01:01:24 - PosicionAumentado: 1 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:01:24 - Se hizo click en la posicion: 371 ------ 203
+[ INFO] - :80 2022-05-30 01:01:24 - Las posiciones para punto 1: 371 203   posicion para el punto2:  371 203
+[ INFO] - :160 2022-05-30 01:01:25 - PosicionAumentado: 2 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:01:25 - Se hizo click en la posicion: 370 ------ 161
+[ INFO] - :80 2022-05-30 01:01:25 - Las posiciones para punto 1: 370 161   posicion para el punto2:  370 161
+[ INFO] - :160 2022-05-30 01:01:26 - PosicionAumentado: 3 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:01:27 - Se hizo click en la posicion: 363 ------ 147
+[ INFO] - :80 2022-05-30 01:01:27 - Las posiciones para punto 1: 363 147   posicion para el punto2:  363 147
+[ INFO] - :160 2022-05-30 01:01:28 - PosicionAumentado: 4 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:01:32 - Se hizo click en la posicion: 414 ------ 130
+[ INFO] - :80 2022-05-30 01:01:32 - Las posiciones para punto 1: 414 130   posicion para el punto2:  414 130
+[ INFO] - :160 2022-05-30 01:01:33 - PosicionAumentado: 5 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:04:55 - Se hizo click en la posicion: 14 ------ 14
+[ INFO] - :80 2022-05-30 01:04:56 - Las posiciones para punto 1: 14 14   posicion para el punto2:  62 117
+[ INFO] - :148 2022-05-30 01:04:57 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 01:04:57 - Se hizo click en la posicion: 84 ------ 32
+[ INFO] - :80 2022-05-30 01:04:58 - Las posiciones para punto 1: 84 32   posicion para el punto2:  125 146
+[ INFO] - :148 2022-05-30 01:04:59 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 01:04:59 - Se hizo click en la posicion: 162 ------ 64
+[ INFO] - :80 2022-05-30 01:04:59 - Las posiciones para punto 1: 162 64   posicion para el punto2:  204 172
+[ INFO] - :148 2022-05-30 01:05:00 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 01:05:01 - Se hizo click en la posicion: 244 ------ 81
+[ INFO] - :80 2022-05-30 01:05:01 - Las posiciones para punto 1: 244 81   posicion para el punto2:  286 213
+[ INFO] - :148 2022-05-30 01:05:02 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 01:05:02 - Se hizo click en la posicion: 316 ------ 87
+[ INFO] - :80 2022-05-30 01:05:03 - Las posiciones para punto 1: 316 87   posicion para el punto2:  373 202
+[ INFO] - :148 2022-05-30 01:05:04 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 01:05:05 - Se hizo click en la posicion: 348 ------ 230
+[ INFO] - :80 2022-05-30 01:05:05 - Las posiciones para punto 1: 348 230   posicion para el punto2:  348 230
+[ INFO] - :168 2022-05-30 01:05:06 - PosicionRestado: 4 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:05:07 - Se hizo click en la posicion: 295 ------ 221
+[ INFO] - :80 2022-05-30 01:05:07 - Las posiciones para punto 1: 295 221   posicion para el punto2:  295 221
+[ INFO] - :168 2022-05-30 01:05:07 - PosicionRestado: 3 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:05:08 - Se hizo click en la posicion: 270 ------ 231
+[ INFO] - :80 2022-05-30 01:05:08 - Las posiciones para punto 1: 270 231   posicion para el punto2:  270 231
+[ INFO] - :168 2022-05-30 01:05:09 - PosicionRestado: 2 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:05:22 - Se hizo click en la posicion: 174 ------ 208
+[ INFO] - :80 2022-05-30 01:05:22 - Las posiciones para punto 1: 174 208   posicion para el punto2:  174 208
+[ INFO] - :168 2022-05-30 01:05:23 - PosicionRestado: 1 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:05:24 - Se hizo click en la posicion: 230 ------ 216
+[ INFO] - :80 2022-05-30 01:05:24 - Las posiciones para punto 1: 230 216   posicion para el punto2:  230 216
+[ INFO] - :168 2022-05-30 01:05:24 - PosicionRestado: 0 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:05:26 - Se hizo click en la posicion: 363 ------ 168
+[ INFO] - :80 2022-05-30 01:05:26 - Las posiciones para punto 1: 363 168   posicion para el punto2:  363 168
+[ INFO] - :161 2022-05-30 01:05:27 - PosicionAumentado: 1 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:05:27 - Se hizo click en la posicion: 393 ------ 146
+[ INFO] - :80 2022-05-30 01:05:27 - Las posiciones para punto 1: 393 146   posicion para el punto2:  397 156
+[ INFO] - :161 2022-05-30 01:05:28 - PosicionAumentado: 2 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:05:28 - Se hizo click en la posicion: 418 ------ 131
+[ INFO] - :80 2022-05-30 01:05:28 - Las posiciones para punto 1: 418 131   posicion para el punto2:  418 130
+[ INFO] - :161 2022-05-30 01:05:29 - PosicionAumentado: 3 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:08:07 - Se hizo click en la posicion: 48 ------ 21
+[ INFO] - :80 2022-05-30 01:08:07 - Las posiciones para punto 1: 48 21   posicion para el punto2:  132 145
+[ INFO] - :149 2022-05-30 01:08:08 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 01:08:09 - Se hizo click en la posicion: 164 ------ 19
+[ INFO] - :80 2022-05-30 01:08:09 - Las posiciones para punto 1: 164 19   posicion para el punto2:  223 151
+[ INFO] - :149 2022-05-30 01:08:10 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 01:08:11 - Se hizo click en la posicion: 258 ------ 26
+[ INFO] - :80 2022-05-30 01:08:11 - Las posiciones para punto 1: 258 26   posicion para el punto2:  299 145
+[ INFO] - :149 2022-05-30 01:08:12 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 01:08:13 - Se hizo click en la posicion: 327 ------ 22
+[ INFO] - :80 2022-05-30 01:08:13 - Las posiciones para punto 1: 327 22   posicion para el punto2:  381 150
+[ INFO] - :149 2022-05-30 01:08:14 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 01:08:15 - Se hizo click en la posicion: 404 ------ 20
+[ INFO] - :80 2022-05-30 01:08:16 - Las posiciones para punto 1: 404 20   posicion para el punto2:  452 138
+[ INFO] - :149 2022-05-30 01:08:16 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 01:08:17 - Se hizo click en la posicion: 488 ------ 23
+[ INFO] - :80 2022-05-30 01:08:18 - Las posiciones para punto 1: 488 23   posicion para el punto2:  522 118
+[ INFO] - :149 2022-05-30 01:08:19 - Tamaño: 7  la posicion es: 6
+[ INFO] - :59 2022-05-30 01:17:24 - Se hizo click en la posicion: 270 ------ 192
+[ INFO] - :80 2022-05-30 01:17:24 - Las posiciones para punto 1: 270 192   posicion para el punto2:  270 192
+[ INFO] - :169 2022-05-30 01:17:25 - PosicionRestado: 5 Tamaño lista 7
+[ INFO] - :59 2022-05-30 01:17:26 - Se hizo click en la posicion: 143 ------ 246
+[ INFO] - :80 2022-05-30 01:17:26 - Las posiciones para punto 1: 143 246   posicion para el punto2:  137 246
+[ INFO] - :169 2022-05-30 01:17:27 - PosicionRestado: 4 Tamaño lista 7
+[ INFO] - :59 2022-05-30 01:17:27 - Se hizo click en la posicion: 213 ------ 246
+[ INFO] - :80 2022-05-30 01:17:27 - Las posiciones para punto 1: 213 246   posicion para el punto2:  207 246
+[ INFO] - :169 2022-05-30 01:17:28 - PosicionRestado: 3 Tamaño lista 7
+[ INFO] - :59 2022-05-30 01:17:35 - Se hizo click en la posicion: 164 ------ 227
+[ INFO] - :80 2022-05-30 01:17:35 - Las posiciones para punto 1: 164 227   posicion para el punto2:  163 227
+[ INFO] - :169 2022-05-30 01:17:37 - PosicionRestado: 2 Tamaño lista 7
+[ INFO] - :59 2022-05-30 01:17:38 - Se hizo click en la posicion: 204 ------ 250
+[ INFO] - :80 2022-05-30 01:17:38 - Las posiciones para punto 1: 204 250   posicion para el punto2:  204 250
+[ INFO] - :162 2022-05-30 01:17:39 - PosicionAumentado: 3 Tamaño lista 7
+[ INFO] - :59 2022-05-30 01:17:40 - Se hizo click en la posicion: 58 ------ 221
+[ INFO] - :80 2022-05-30 01:17:40 - Las posiciones para punto 1: 58 221   posicion para el punto2:  103 305
+[ INFO] - :142 2022-05-30 01:17:41 - -----------------------FOR-------Tamaño: 6  la posicion es: 3  i6
+[ INFO] - :146 2022-05-30 01:17:41 - FOR-------Tamaño: 6  la posicion es: 3
+[ INFO] - :142 2022-05-30 01:17:41 - -----------------------FOR-------Tamaño: 5  la posicion es: 3  i5
+[ INFO] - :146 2022-05-30 01:17:41 - FOR-------Tamaño: 5  la posicion es: 3
+[ INFO] - :142 2022-05-30 01:17:41 - -----------------------FOR-------Tamaño: 4  la posicion es: 3  i4
+[ INFO] - :146 2022-05-30 01:17:41 - FOR-------Tamaño: 4  la posicion es: 3
+[ INFO] - :149 2022-05-30 01:17:41 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 01:17:42 - Se hizo click en la posicion: 134 ------ 228
+[ INFO] - :80 2022-05-30 01:17:42 - Las posiciones para punto 1: 134 228   posicion para el punto2:  169 301
+[ INFO] - :149 2022-05-30 01:17:48 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 01:17:49 - Se hizo click en la posicion: 185 ------ 230
+[ INFO] - :80 2022-05-30 01:17:50 - Las posiciones para punto 1: 185 230   posicion para el punto2:  238 318
+[ INFO] - :149 2022-05-30 01:17:51 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 01:19:37 - Se hizo click en la posicion: 31 ------ 11
+[ INFO] - :80 2022-05-30 01:19:37 - Las posiciones para punto 1: 31 11   posicion para el punto2:  118 153
+[ INFO] - :149 2022-05-30 01:19:38 - Tamaño: 2  la posicion es: 0
+[ INFO] - :59 2022-05-30 01:19:43 - Se hizo click en la posicion: 147 ------ 17
+[ INFO] - :80 2022-05-30 01:19:43 - Las posiciones para punto 1: 147 17   posicion para el punto2:  224 131
+[ INFO] - :142 2022-05-30 01:19:45 - -----------------------FOR-------Tamaño: 1  la posicion es: 0  i1
+[ INFO] - :146 2022-05-30 01:19:45 - FOR-------Tamaño: 1  la posicion es: 0
+[ INFO] - :149 2022-05-30 01:19:45 - Tamaño: 1  la posicion es: 0
+[ INFO] - :59 2022-05-30 01:19:46 - Se hizo click en la posicion: 244 ------ 29
+[ INFO] - :80 2022-05-30 01:19:47 - Las posiciones para punto 1: 244 29   posicion para el punto2:  328 168
+[ INFO] - :149 2022-05-30 01:19:48 - Tamaño: 2  la posicion es: 0
+[ INFO] - :59 2022-05-30 01:19:49 - Se hizo click en la posicion: 355 ------ 49
+[ INFO] - :80 2022-05-30 01:19:49 - Las posiciones para punto 1: 355 49   posicion para el punto2:  425 186
+[ INFO] - :142 2022-05-30 01:19:50 - -----------------------FOR-------Tamaño: 1  la posicion es: 0  i1
+[ INFO] - :146 2022-05-30 01:19:50 - FOR-------Tamaño: 1  la posicion es: 0
+[ INFO] - :149 2022-05-30 01:19:50 - Tamaño: 1  la posicion es: 0
+[ INFO] - :59 2022-05-30 01:19:51 - Se hizo click en la posicion: 35 ------ 188
+[ INFO] - :80 2022-05-30 01:19:52 - Las posiciones para punto 1: 35 188   posicion para el punto2:  102 302
+[ INFO] - :149 2022-05-30 01:19:54 - Tamaño: 2  la posicion es: 0
+[ INFO] - :59 2022-05-30 01:21:42 - Se hizo click en la posicion: 44 ------ 46
+[ INFO] - :80 2022-05-30 01:21:42 - Las posiciones para punto 1: 44 46   posicion para el punto2:  111 134
+[ INFO] - :149 2022-05-30 01:21:43 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 01:21:44 - Se hizo click en la posicion: 163 ------ 65
+[ INFO] - :80 2022-05-30 01:21:44 - Las posiciones para punto 1: 163 65   posicion para el punto2:  230 186
+[ INFO] - :149 2022-05-30 01:21:44 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 01:21:45 - Se hizo click en la posicion: 272 ------ 68
+[ INFO] - :80 2022-05-30 01:21:45 - Las posiciones para punto 1: 272 68   posicion para el punto2:  348 168
+[ INFO] - :149 2022-05-30 01:21:46 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 01:21:47 - Se hizo click en la posicion: 71 ------ 199
+[ INFO] - :80 2022-05-30 01:21:47 - Las posiciones para punto 1: 71 199   posicion para el punto2:  129 296
+[ INFO] - :149 2022-05-30 01:21:48 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 01:21:48 - Se hizo click en la posicion: 197 ------ 225
+[ INFO] - :80 2022-05-30 01:21:48 - Las posiciones para punto 1: 197 225   posicion para el punto2:  255 281
+[ INFO] - :149 2022-05-30 01:21:49 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 01:21:49 - Se hizo click en la posicion: 303 ------ 220
+[ INFO] - :80 2022-05-30 01:21:50 - Las posiciones para punto 1: 303 220   posicion para el punto2:  386 292
+[ INFO] - :149 2022-05-30 01:21:51 - Tamaño: 7  la posicion es: 6
+[ INFO] - :59 2022-05-30 01:21:51 - Se hizo click en la posicion: 417 ------ 248
+[ INFO] - :80 2022-05-30 01:21:51 - Las posiciones para punto 1: 417 248   posicion para el punto2:  417 248
+[ INFO] - :169 2022-05-30 01:21:52 - PosicionRestado: 5 Tamaño lista 7
+[ INFO] - :59 2022-05-30 01:21:53 - Se hizo click en la posicion: 383 ------ 246
+[ INFO] - :80 2022-05-30 01:21:53 - Las posiciones para punto 1: 383 246   posicion para el punto2:  365 246
+[ INFO] - :169 2022-05-30 01:21:53 - PosicionRestado: 4 Tamaño lista 7
+[ INFO] - :59 2022-05-30 01:21:54 - Se hizo click en la posicion: 318 ------ 236
+[ INFO] - :80 2022-05-30 01:21:54 - Las posiciones para punto 1: 310 236   posicion para el punto2:  318 241
+[ INFO] - :169 2022-05-30 01:21:54 - PosicionRestado: 3 Tamaño lista 7
+[ INFO] - :59 2022-05-30 01:21:55 - Se hizo click en la posicion: 386 ------ 82
+[ INFO] - :80 2022-05-30 01:21:56 - Las posiciones para punto 1: 386 82   posicion para el punto2:  432 161
+[ INFO] - :142 2022-05-30 01:21:57 - -----------------------FOR-------Tamaño: 6  la posicion es: 3  i6
+[ INFO] - :146 2022-05-30 01:21:57 - FOR-------Tamaño: 6  la posicion es: 3
+[ INFO] - :142 2022-05-30 01:21:57 - -----------------------FOR-------Tamaño: 5  la posicion es: 3  i5
+[ INFO] - :146 2022-05-30 01:21:57 - FOR-------Tamaño: 5  la posicion es: 3
+[ INFO] - :142 2022-05-30 01:21:57 - -----------------------FOR-------Tamaño: 4  la posicion es: 3  i4
+[ INFO] - :146 2022-05-30 01:21:57 - FOR-------Tamaño: 4  la posicion es: 3
+[ INFO] - :149 2022-05-30 01:21:57 - Tamaño: 4  la posicion es: 4
+[ INFO] - :59 2022-05-30 01:21:58 - Se hizo click en la posicion: 60 ------ 206
+[ INFO] - :80 2022-05-30 01:22:01 - Las posiciones para punto 1: 60 206   posicion para el punto2:  136 282
+[ INFO] - :142 2022-05-30 01:22:07 - -----------------------FOR-------Tamaño: 3  la posicion es: 4  i3
+[ INFO] - :146 2022-05-30 01:22:07 - FOR-------Tamaño: 3  la posicion es: 4
+[ INFO] - :142 2022-05-30 01:22:07 - -----------------------FOR-------Tamaño: 2  la posicion es: 4  i2
+[ INFO] - :146 2022-05-30 01:22:07 - FOR-------Tamaño: 2  la posicion es: 4
+[ INFO] - :142 2022-05-30 01:22:07 - -----------------------FOR-------Tamaño: 1  la posicion es: 4  i1
+[ INFO] - :146 2022-05-30 01:22:07 - FOR-------Tamaño: 1  la posicion es: 4
+[ INFO] - :142 2022-05-30 01:22:07 - -----------------------FOR-------Tamaño: 0  la posicion es: 4  i0
+[ INFO] - :146 2022-05-30 01:22:07 - FOR-------Tamaño: 0  la posicion es: 4
+[ INFO] - :149 2022-05-30 01:22:07 - Tamaño: 0  la posicion es: 4
+[ INFO] - :59 2022-05-30 01:22:08 - Se hizo click en la posicion: 295 ------ 210
+[ INFO] - :80 2022-05-30 01:22:08 - Las posiciones para punto 1: 295 210   posicion para el punto2:  295 210
+[ INFO] - :169 2022-05-30 01:22:09 - PosicionRestado: 3 Tamaño lista 0
+[ INFO] - :59 2022-05-30 01:24:15 - Se hizo click en la posicion: 24 ------ 22
+[ INFO] - :80 2022-05-30 01:24:15 - Las posiciones para punto 1: 24 22   posicion para el punto2:  103 177
+[ INFO] - :152 2022-05-30 01:24:16 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 01:24:17 - Se hizo click en la posicion: 120 ------ 30
+[ INFO] - :80 2022-05-30 01:24:17 - Las posiciones para punto 1: 120 30   posicion para el punto2:  188 200
+[ INFO] - :152 2022-05-30 01:24:19 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 01:24:19 - Se hizo click en la posicion: 215 ------ 39
+[ INFO] - :80 2022-05-30 01:24:19 - Las posiciones para punto 1: 215 39   posicion para el punto2:  271 167
+[ INFO] - :152 2022-05-30 01:24:20 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 01:24:21 - Se hizo click en la posicion: 294 ------ 39
+[ INFO] - :80 2022-05-30 01:24:21 - Las posiciones para punto 1: 294 39   posicion para el punto2:  353 171
+[ INFO] - :152 2022-05-30 01:24:21 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 01:24:22 - Se hizo click en la posicion: 381 ------ 47
+[ INFO] - :80 2022-05-30 01:24:22 - Las posiciones para punto 1: 381 47   posicion para el punto2:  444 187
+[ INFO] - :152 2022-05-30 01:24:23 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 01:24:23 - Se hizo click en la posicion: 318 ------ 233
+[ INFO] - :80 2022-05-30 01:24:23 - Las posiciones para punto 1: 318 233   posicion para el punto2:  318 233
+[ INFO] - :172 2022-05-30 01:24:24 - PosicionRestado: 4 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:24:24 - Se hizo click en la posicion: 279 ------ 244
+[ INFO] - :80 2022-05-30 01:24:24 - Las posiciones para punto 1: 279 244   posicion para el punto2:  276 244
+[ INFO] - :172 2022-05-30 01:24:25 - PosicionRestado: 3 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:24:25 - Se hizo click en la posicion: 255 ------ 237
+[ INFO] - :80 2022-05-30 01:24:25 - Las posiciones para punto 1: 255 237   posicion para el punto2:  255 237
+[ INFO] - :172 2022-05-30 01:24:26 - PosicionRestado: 2 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:24:26 - Se hizo click en la posicion: 272 ------ 57
+[ INFO] - :80 2022-05-30 01:24:27 - Las posiciones para punto 1: 272 57   posicion para el punto2:  330 187
+[ INFO] - :145 2022-05-30 01:24:28 - -----------------------FOR-------Tamaño: 5  la posicion es: 2  i5
+[ INFO] - :149 2022-05-30 01:24:28 - FOR-------Tamaño: 5  la posicion es: 2
+[ INFO] - :145 2022-05-30 01:24:28 - -----------------------FOR-------Tamaño: 4  la posicion es: 2  i4
+[ INFO] - :149 2022-05-30 01:24:28 - FOR-------Tamaño: 4  la posicion es: 2
+[ INFO] - :145 2022-05-30 01:24:28 - -----------------------FOR-------Tamaño: 3  la posicion es: 2  i3
+[ INFO] - :149 2022-05-30 01:24:28 - FOR-------Tamaño: 3  la posicion es: 2
+[ INFO] - :152 2022-05-30 01:24:28 - Tamaño: 3  la posicion es: 3
+[ INFO] - :59 2022-05-30 01:24:28 - Se hizo click en la posicion: 393 ------ 61
+[ INFO] - :80 2022-05-30 01:24:28 - Las posiciones para punto 1: 393 61   posicion para el punto2:  425 147
+[ INFO] - :152 2022-05-30 01:24:29 - Tamaño: 3  la posicion es: 3
+[ INFO] - :59 2022-05-30 01:24:30 - Se hizo click en la posicion: 315 ------ 220
+[ INFO] - :80 2022-05-30 01:24:30 - Las posiciones para punto 1: 315 220   posicion para el punto2:  315 220
+[ INFO] - :172 2022-05-30 01:24:30 - PosicionRestado: 2 Tamaño lista 3
+[ INFO] - :59 2022-05-30 01:24:31 - Se hizo click en la posicion: 310 ------ 233
+[ INFO] - :80 2022-05-30 01:24:31 - Las posiciones para punto 1: 310 233   posicion para el punto2:  310 233
+[ INFO] - :172 2022-05-30 01:24:32 - PosicionRestado: 1 Tamaño lista 3
+[ INFO] - :59 2022-05-30 01:24:33 - Se hizo click en la posicion: 284 ------ 224
+[ INFO] - :80 2022-05-30 01:24:33 - Las posiciones para punto 1: 284 224   posicion para el punto2:  284 224
+[ INFO] - :172 2022-05-30 01:24:34 - PosicionRestado: 0 Tamaño lista 3
+[ INFO] - :59 2022-05-30 01:26:15 - Se hizo click en la posicion: 70 ------ 47
+[ INFO] - :80 2022-05-30 01:26:15 - Las posiciones para punto 1: 70 47   posicion para el punto2:  148 213
+[ INFO] - :152 2022-05-30 01:26:16 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 01:26:17 - Se hizo click en la posicion: 195 ------ 62
+[ INFO] - :80 2022-05-30 01:26:17 - Las posiciones para punto 1: 195 62   posicion para el punto2:  270 214
+[ INFO] - :152 2022-05-30 01:26:17 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 01:26:18 - Se hizo click en la posicion: 267 ------ 64
+[ INFO] - :80 2022-05-30 01:26:18 - Las posiciones para punto 1: 267 64   posicion para el punto2:  349 160
+[ INFO] - :152 2022-05-30 01:26:19 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 01:26:20 - Se hizo click en la posicion: 387 ------ 51
+[ INFO] - :80 2022-05-30 01:26:20 - Las posiciones para punto 1: 387 51   posicion para el punto2:  442 150
+[ INFO] - :152 2022-05-30 01:26:21 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 01:26:21 - Se hizo click en la posicion: 352 ------ 221
+[ INFO] - :80 2022-05-30 01:26:21 - Las posiciones para punto 1: 352 221   posicion para el punto2:  387 275
+[ INFO] - :152 2022-05-30 01:26:22 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 01:26:23 - Se hizo click en la posicion: 388 ------ 227
+[ INFO] - :80 2022-05-30 01:26:23 - Las posiciones para punto 1: 388 227   posicion para el punto2:  388 227
+[ INFO] - :172 2022-05-30 01:26:23 - PosicionRestado: 4 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:26:24 - Se hizo click en la posicion: 295 ------ 229
+[ INFO] - :80 2022-05-30 01:26:24 - Las posiciones para punto 1: 295 229   posicion para el punto2:  296 229
+[ INFO] - :172 2022-05-30 01:26:24 - PosicionRestado: 3 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:26:25 - Se hizo click en la posicion: 297 ------ 224
+[ INFO] - :80 2022-05-30 01:26:25 - Las posiciones para punto 1: 297 224   posicion para el punto2:  295 224
+[ INFO] - :172 2022-05-30 01:26:25 - PosicionRestado: 2 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:26:38 - Se hizo click en la posicion: 245 ------ 291
+[ INFO] - :80 2022-05-30 01:26:38 - Las posiciones para punto 1: 245 291   posicion para el punto2:  245 291
+[ INFO] - :172 2022-05-30 01:26:40 - PosicionRestado: 1 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:26:40 - Se hizo click en la posicion: 330 ------ 224
+[ INFO] - :80 2022-05-30 01:26:40 - Las posiciones para punto 1: 330 224   posicion para el punto2:  330 224
+[ INFO] - :165 2022-05-30 01:26:41 - PosicionAumentado: 2 Tamaño lista 6
+[ INFO] - :59 2022-05-30 01:26:42 - Se hizo click en la posicion: 308 ------ 55
+[ INFO] - :80 2022-05-30 01:26:42 - Las posiciones para punto 1: 308 55   posicion para el punto2:  368 141
+[ INFO] - :145 2022-05-30 01:26:43 - -----------------------FOR-------Tamaño: 5  la posicion es: 2  i5
+[ INFO] - :149 2022-05-30 01:26:43 - FOR-------Tamaño: 5  la posicion es: 2
+[ INFO] - :145 2022-05-30 01:26:43 - -----------------------FOR-------Tamaño: 4  la posicion es: 2  i4
+[ INFO] - :149 2022-05-30 01:26:43 - FOR-------Tamaño: 4  la posicion es: 2
+[ INFO] - :145 2022-05-30 01:26:43 - -----------------------FOR-------Tamaño: 3  la posicion es: 2  i3
+[ INFO] - :149 2022-05-30 01:26:43 - FOR-------Tamaño: 3  la posicion es: 2
+[ INFO] - :152 2022-05-30 01:26:43 - Tamaño: 3  la posicion es: 3
+[ INFO] - :59 2022-05-30 01:26:44 - Se hizo click en la posicion: 412 ------ 64
+[ INFO] - :80 2022-05-30 01:26:44 - Las posiciones para punto 1: 412 64   posicion para el punto2:  451 169
+[ INFO] - :145 2022-05-30 01:26:54 - -----------------------FOR-------Tamaño: 2  la posicion es: 3  i2
+[ INFO] - :149 2022-05-30 01:26:54 - FOR-------Tamaño: 2  la posicion es: 3
+[ INFO] - :145 2022-05-30 01:26:54 - -----------------------FOR-------Tamaño: 1  la posicion es: 3  i1
+[ INFO] - :149 2022-05-30 01:26:54 - FOR-------Tamaño: 1  la posicion es: 3
+[ INFO] - :145 2022-05-30 01:26:54 - -----------------------FOR-------Tamaño: 0  la posicion es: 3  i0
+[ INFO] - :149 2022-05-30 01:26:54 - FOR-------Tamaño: 0  la posicion es: 3
+[ INFO] - :152 2022-05-30 01:26:54 - Tamaño: 0  la posicion es: 3
+[ INFO] - :59 2022-05-30 01:27:03 - Se hizo click en la posicion: 328 ------ 182
+[ INFO] - :80 2022-05-30 01:27:03 - Las posiciones para punto 1: 328 182   posicion para el punto2:  363 237
+[ INFO] - :152 2022-05-30 01:27:04 - Tamaño: 0  la posicion es: 3
+[ INFO] - :59 2022-05-30 01:27:25 - Se hizo click en la posicion: 390 ------ 129
+[ INFO] - :80 2022-05-30 01:27:25 - Las posiciones para punto 1: 390 129   posicion para el punto2:  390 129
+[ INFO] - :172 2022-05-30 01:27:26 - PosicionRestado: 2 Tamaño lista 0
+[ INFO] - :172 2022-05-30 01:27:27 - PosicionRestado: 1 Tamaño lista 0
+[ INFO] - :59 2022-05-30 01:28:04 - Se hizo click en la posicion: 73 ------ 19
+[ INFO] - :80 2022-05-30 01:28:05 - Las posiciones para punto 1: 73 19   posicion para el punto2:  168 150
+[ INFO] - :152 2022-05-30 01:28:05 - Tamaño: 2  la posicion es: 1
+[ INFO] - :59 2022-05-30 01:28:06 - Se hizo click en la posicion: 188 ------ 39
+[ INFO] - :80 2022-05-30 01:28:06 - Las posiciones para punto 1: 188 39   posicion para el punto2:  284 175
+[ INFO] - :152 2022-05-30 01:28:07 - Tamaño: 3  la posicion es: 2
+[ INFO] - :59 2022-05-30 01:28:07 - Se hizo click en la posicion: 335 ------ 31
+[ INFO] - :80 2022-05-30 01:28:07 - Las posiciones para punto 1: 335 31   posicion para el punto2:  436 170
+[ INFO] - :152 2022-05-30 01:28:08 - Tamaño: 4  la posicion es: 3
+[ INFO] - :59 2022-05-30 01:28:14 - Se hizo click en la posicion: 47 ------ 188
+[ INFO] - :59 2022-05-30 01:28:20 - Se hizo click en la posicion: 28 ------ 209
+[ INFO] - :80 2022-05-30 01:28:20 - Las posiciones para punto 1: 28 209   posicion para el punto2:  98 280
+[ INFO] - :152 2022-05-30 01:28:21 - Tamaño: 5  la posicion es: 4
+[ INFO] - :59 2022-05-30 01:28:22 - Se hizo click en la posicion: 165 ------ 216
+[ INFO] - :80 2022-05-30 01:28:23 - Las posiciones para punto 1: 165 216   posicion para el punto2:  225 278
+[ INFO] - :152 2022-05-30 01:28:25 - Tamaño: 6  la posicion es: 5
+[ INFO] - :59 2022-05-30 01:28:25 - Se hizo click en la posicion: 347 ------ 268
+[ INFO] - :80 2022-05-30 01:28:25 - Las posiciones para punto 1: 347 268   posicion para el punto2:  347 268
+[ INFO] - :152 2022-05-30 01:28:30 - Tamaño: 7  la posicion es: 6
+[ INFO] - :59 2022-05-30 01:28:32 - Se hizo click en la posicion: 302 ------ 236
+[ INFO] - :80 2022-05-30 01:28:32 - Las posiciones para punto 1: 302 236   posicion para el punto2:  302 236
+[ INFO] - :172 2022-05-30 01:28:37 - PosicionRestado: 5 Tamaño lista 7
+[ INFO] - :59 2022-05-30 01:28:38 - Se hizo click en la posicion: 416 ------ 203
+[ INFO] - :80 2022-05-30 01:28:38 - Las posiciones para punto 1: 416 203   posicion para el punto2:  414 203
+[ INFO] - :172 2022-05-30 01:28:39 - PosicionRestado: 4 Tamaño lista 7
+[ INFO] - :59 2022-05-30 01:28:40 - Se hizo click en la posicion: 340 ------ 238
+[ INFO] - :80 2022-05-30 01:28:40 - Las posiciones para punto 1: 340 238   posicion para el punto2:  340 238
+[ INFO] - :172 2022-05-30 01:28:41 - PosicionRestado: 3 Tamaño lista 7
+[ INFO] - :59 2022-05-30 01:28:42 - Se hizo click en la posicion: 356 ------ 244
+[ INFO] - :80 2022-05-30 01:28:42 - Las posiciones para punto 1: 356 244   posicion para el punto2:  356 243
+[ INFO] - :172 2022-05-30 01:28:43 - PosicionRestado: 2 Tamaño lista 7
+[ INFO] - :59 2022-05-30 01:28:43 - Se hizo click en la posicion: 326 ------ 73
+[ INFO] - :80 2022-05-30 01:28:44 - Las posiciones para punto 1: 326 73   posicion para el punto2:  380 195
+[ INFO] - :145 2022-05-30 01:28:45 - -----------------------FOR-------Tamaño: 6  la posicion es: 2  i6
+[ INFO] - :149 2022-05-30 01:28:45 - FOR-------Tamaño: 6  la posicion es: 2
+[ INFO] - :145 2022-05-30 01:28:45 - -----------------------FOR-------Tamaño: 5  la posicion es: 2  i5
+[ INFO] - :149 2022-05-30 01:28:45 - FOR-------Tamaño: 5  la posicion es: 2
+[ INFO] - :145 2022-05-30 01:28:45 - -----------------------FOR-------Tamaño: 4  la posicion es: 2  i4
+[ INFO] - :149 2022-05-30 01:28:45 - FOR-------Tamaño: 4  la posicion es: 2
+[ INFO] - :152 2022-05-30 01:28:45 - Tamaño: 4  la posicion es: 2
+[ INFO] - :59 2022-05-30 01:28:45 - Se hizo click en la posicion: 451 ------ 71
+[ INFO] - :80 2022-05-30 01:28:45 - Las posiciones para punto 1: 451 71   posicion para el punto2:  473 181
+[ INFO] - :152 2022-05-30 01:28:47 - Tamaño: 4  la posicion es: 2
+[ INFO] - :59 2022-05-30 01:28:48 - Se hizo click en la posicion: 75 ------ 230
+[ INFO] - :80 2022-05-30 01:28:48 - Las posiciones para punto 1: 75 230   posicion para el punto2:  146 292
+[ INFO] - :152 2022-05-30 01:28:49 - Tamaño: 4  la posicion es: 2
+[ INFO] - :59 2022-05-30 01:28:50 - Se hizo click en la posicion: 279 ------ 240
+[ INFO] - :80 2022-05-30 01:28:50 - Las posiciones para punto 1: 278 240   posicion para el punto2:  279 242
+[ INFO] - :172 2022-05-30 01:28:51 - PosicionRestado: 1 Tamaño lista 4
+[ INFO] - :59 2022-05-30 01:28:52 - Se hizo click en la posicion: 223 ------ 252
+[ INFO] - :80 2022-05-30 01:28:52 - Las posiciones para punto 1: 223 252   posicion para el punto2:  223 252
+[ INFO] - :172 2022-05-30 01:28:53 - PosicionRestado: 0 Tamaño lista 4
+[ INFO] - :59 2022-05-30 01:28:54 - Se hizo click en la posicion: 283 ------ 128
+[ INFO] - :80 2022-05-30 01:28:54 - Las posiciones para punto 1: 283 128   posicion para el punto2:  283 129
+[ INFO] - :172 2022-05-30 01:28:55 - PosicionRestado: 0 Tamaño lista 4
+[ INFO] - :59 2022-05-30 01:28:56 - Se hizo click en la posicion: 235 ------ 208
+[ INFO] - :80 2022-05-30 01:28:56 - Las posiciones para punto 1: 235 208   posicion para el punto2:  235 208
+[ INFO] - :172 2022-05-30 01:28:56 - PosicionRestado: 0 Tamaño lista 4
+[ INFO] - :59 2022-05-30 01:28:57 - Se hizo click en la posicion: 333 ------ 228
+[ INFO] - :80 2022-05-30 01:28:57 - Las posiciones para punto 1: 333 227   posicion para el punto2:  334 228
+[ INFO] - :165 2022-05-30 01:28:58 - PosicionAumentado: 1 Tamaño lista 4
+[ INFO] - :59 2022-05-30 01:28:58 - Se hizo click en la posicion: 329 ------ 226
+[ INFO] - :80 2022-05-30 01:28:58 - Las posiciones para punto 1: 329 226   posicion para el punto2:  329 227
+[ INFO] - :165 2022-05-30 01:28:59 - PosicionAumentado: 2 Tamaño lista 4
+[ INFO] - :59 2022-05-30 01:28:59 - Se hizo click en la posicion: 385 ------ 219
+[ INFO] - :80 2022-05-30 01:28:59 - Las posiciones para punto 1: 385 219   posicion para el punto2:  385 219
+[ INFO] - :165 2022-05-30 01:29:00 - PosicionAumentado: 3 Tamaño lista 4
+[ INFO] - :59 2022-05-30 01:29:01 - Se hizo click en la posicion: 414 ------ 261
+[ INFO] - :80 2022-05-30 01:29:01 - Las posiciones para punto 1: 414 261   posicion para el punto2:  414 261
+[ INFO] - :165 2022-05-30 01:29:01 - PosicionAumentado: 3 Tamaño lista 4
+[ INFO] - :59 2022-05-30 01:29:02 - Se hizo click en la posicion: 407 ------ 239
+[ INFO] - :80 2022-05-30 01:29:02 - Las posiciones para punto 1: 407 239   posicion para el punto2:  407 239
+[ INFO] - :165 2022-05-30 01:29:02 - PosicionAumentado: 3 Tamaño lista 4
+[ INFO] - :59 2022-05-30 01:29:03 - Se hizo click en la posicion: 415 ------ 245
+[ INFO] - :80 2022-05-30 01:29:03 - Las posiciones para punto 1: 415 245   posicion para el punto2:  415 245
+[ INFO] - :165 2022-05-30 01:29:03 - PosicionAumentado: 3 Tamaño lista 4
+[ INFO] - :59 2022-05-30 01:29:04 - Se hizo click en la posicion: 417 ------ 256
+[ INFO] - :80 2022-05-30 01:29:04 - Las posiciones para punto 1: 417 256   posicion para el punto2:  416 256
+[ INFO] - :165 2022-05-30 01:29:04 - PosicionAumentado: 3 Tamaño lista 4
